@@ -1,0 +1,783 @@
+[00:01:01] [Server thread/INFO]: Villager class_1646['Weaponsmith'/19380, l='ServerLevel[world]', x=-115.30, y=82.00, z=-170.30] died, message: 'Weaponsmith was slain by Relaxingame2'
+[00:01:15] [Server thread/INFO]: Cafefloo lost connection: Disconnected
+[00:01:15] [Server thread/INFO]: Cafefloo left the game
+[00:01:21] [Server thread/INFO]: Diego_hdez29 has made the advancement [Ice Bucket Challenge]
+[00:02:14] [Server thread/INFO]: Diego_hdez29 has found their grave at (-116, 81, -171)
+[00:05:13] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XDDDD
+[00:05:47] [Server thread/INFO]: No return portal found
+[00:07:55] [Server thread/INFO]: Tronks94[/127.144.84.149:36635] logged in with entity id 34989 at (-958.5837377655931, -52.82324072493576, -1385.9082018635488)
+[00:07:55] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[00:07:55] [Server thread/INFO]: Tronks94 joined the game
+[00:07:57] [Server thread/INFO]: Channel update: Tronks94 -> default
+[00:08:06] [Server thread/INFO]: Villager class_1646['Villager'/31084, l='ServerLevel[world]', x=-533.30, y=-31.29, z=-438.30] died, message: 'Villager was squished too much'
+[00:08:43] [Server thread/INFO]: Relaxingame2 has completed the challenge [Cover Me in Debris]
+[00:09:06] [Server thread/INFO]: Relaxingame2 has completed the challenge [Serious Dedication]
+[00:10:07] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo tengo 6 stack de adoquin XD
+[00:10:42] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> xD
+[00:12:03] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> la cueva en la que estabamos es profunda, tal vez hay ahi
+[00:12:40] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[00:12:43] [Server thread/INFO]: Relaxingame2 has made the advancement [Netherite Tier Upgrade]
+[00:18:47] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> Hare un waterdrop, si muero ya saben por que XD
+[00:19:03] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XDD
+[00:21:00] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> xDDD
+[00:21:56] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[00:21:56] [Server thread/INFO]: patitoYOCHI left the game
+[00:23:21] [Server thread/INFO]: Villager class_1646['Villager'/53899, l='ServerLevel[world]', x=-533.30, y=-31.27, z=-438.30] died, message: 'Villager was squished too much'
+[00:24:22] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2824@18cc8283, suppressing error
+java.lang.IllegalArgumentException: Data for attachment 'carryon:carry_on_data' was too big (32768 bytes, over maximum 32502)
+	at knot//net.fabricmc.fabric.impl.attachment.sync.AttachmentChange.create(AttachmentChange.java:88)
+	at knot//net.minecraft.class_1297.setAttached(class_1297.java:8618)
+	at knot//tschipp.carryon.platform.FabricPlatformHelper.setCarryData(FabricPlatformHelper.java:112)
+	at knot//tschipp.carryon.common.carry.CarryOnDataManager.setCarryData(CarryOnDataManager.java:37)
+	at knot//tschipp.carryon.common.carry.PickupHandler.tryPickupEntity(PickupHandler.java:272)
+	at knot//tschipp.carryon.events.CommonEvents.lambda$registerEvents$4(CommonEvents.java:104)
+	at knot//net.fabricmc.fabric.api.event.player.UseEntityCallback.lambda$static$0(UseEntityCallback.java:57)
+	at knot//net.minecraft.class_3244$1.handler$zml000$fabric-events-interaction-v0$onPlayerInteractEntity(class_3244.java:2013)
+	at knot//net.minecraft.class_3244$1.method_34220(class_3244.java)
+	at knot//net.minecraft.class_2824$class_5910.method_34213(class_2824.java:163)
+	at knot//net.minecraft.class_2824.method_34209(class_2824.java:83)
+	at knot//net.minecraft.class_3244.method_12062(class_3244.java:1862)
+	at knot//net.minecraft.class_2824.method_12251(class_2824.java:63)
+	at knot//net.minecraft.class_2824.method_65081(class_2824.java:17)
+	at knot//net.minecraft.class_11980$class_11981.method_74450(class_11980.java:55)
+	at knot//net.minecraft.class_11980.method_74449(class_11980.java:38)
+	at knot//net.minecraft.server.MinecraftServer.method_76677(MinecraftServer.java:1047)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:771)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:301)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:25:11] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> me consegui un esqueleto con un arco que tiene empuje, mas salada
+[00:26:01] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:52177] logged in with entity id 58452 at (-613.5218766202399, 73.0, -1143.3210693172177)
+[00:26:01] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[00:26:01] [Server thread/INFO]: patitoYOCHI joined the game
+[00:26:01] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[00:33:08] [Server thread/INFO]: Tronks94 lost connection: Disconnected
+[00:33:08] [Server thread/INFO]: Tronks94 left the game
+[00:34:29] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo sigo explorando aqui po
+[00:35:02] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> la cueva es absurdamente grande
+[00:36:07] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> me estaban matando :v
+[00:39:24] [Server thread/INFO]: Tronks94[/127.144.84.149:55895] logged in with entity id 76721 at (-962.3916268762136, -54.0, -1384.699999988079)
+[00:39:24] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[00:39:24] [Server thread/INFO]: Tronks94 joined the game
+[00:39:28] [Server thread/INFO]: Channel update: Tronks94 -> default
+[00:40:02] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo me ire a buscar comida, ya se me acabo
+[00:42:15] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[00:42:15] [Server thread/INFO]: YoshiGamerDS27 left the game
+[00:42:15] [Server thread/WARN]: handleDisconnection() called twice
+[00:43:31] [Server thread/INFO]: Relaxingame2 has made the advancement [Hot Stuff]
+[00:47:51] [Server thread/INFO]: Relaxingame2 has reached the goal [Hired Help]
+[00:48:13] [Server thread/INFO]: Diego_hdez29 has reached the goal [Hired Help]
+[00:49:21] [Server thread/INFO]: Diego_hdez29 has made the advancement [Withering Heights]
+[00:49:21] [Server thread/INFO]: Relaxingame2 has made the advancement [Withering Heights]
+[00:51:33] [Server thread/INFO]: Tronks94 has made the advancement [Withering Heights]
+[00:54:42] [Server thread/INFO]: xxraykingsxx[/127.42.43.245:43293] logged in with entity id 95755 at (-953.6173500632726, 63.0, -1378.0827536926186)
+[00:54:42] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[00:54:42] [Server thread/INFO]: xxraykingsxx joined the game
+[00:54:43] [Server thread/INFO]: Channel update: xxraykingsxx -> default
+[00:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[00:57:16] [Server thread/WARN]: xxraykingsxx moved wrongly!
+[01:06:05] [Server thread/INFO]: Villager class_1646['Villager'/99123, l='ServerLevel[world]', x=-533.30, y=-31.26, z=-438.30] died, message: 'Villager was squished too much'
+[01:10:27] [Server thread/INFO]: [Not Secure] <patitoYOCHI> xD
+[01:11:33] [Server thread/INFO]: [Not Secure] <patitoYOCHI> DUEeeeeee
+[01:12:57] [Server thread/INFO]: xxraykingsxx has made the advancement [A Major Trial Of Strength]
+[01:13:43] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[01:13:43] [Server thread/INFO]: Relaxingame2 left the game
+[01:13:58] [Server thread/INFO]: Relaxingame2[/127.201.127.108:36001] logged in with entity id 122929 at (-529.3000000119209, -20.0, -423.30000001192093)
+[01:13:58] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:13:58] [Server thread/INFO]: Relaxingame2 joined the game
+[01:13:58] [Server thread/INFO]: Channel update: Relaxingame2 -> default
+[01:14:33] [Server thread/INFO]: xxraykingsxx lost connection: Disconnected
+[01:14:33] [Server thread/INFO]: xxraykingsxx left the game
+[01:14:45] [Server thread/INFO]: Disconnecting YoshiGamerDS27 (/127.14.99.99:59191): Took too long to log in
+[01:14:45] [Server thread/INFO]: YoshiGamerDS27 (/127.14.99.99:59191) lost connection: Took too long to log in
+[01:14:45] [Server thread/WARN]: handleDisconnection() called twice
+[01:15:43] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:60323] logged in with entity id 125349 at (-628.8403387070199, 66.0, -1221.5888708065802)
+[01:15:43] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:15:43] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[01:15:54] [Server thread/INFO]: xxraykingsxx[/127.42.43.245:55103] logged in with entity id 125728 at (-1199.1402541056104, -17.0, -1093.4824434384955)
+[01:15:54] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:15:54] [Server thread/INFO]: xxraykingsxx joined the game
+[01:15:55] [Server thread/INFO]: Channel update: xxraykingsxx -> default
+[01:16:11] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[01:17:06] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[01:17:06] [Server thread/INFO]: Relaxingame2 left the game
+[01:17:54] [Server thread/INFO]: Relaxingame2[/127.201.127.108:36661] logged in with entity id 129039 at (-535.5, -21.0, -437.5)
+[01:17:54] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:17:54] [Server thread/INFO]: Relaxingame2 joined the game
+[01:17:55] [Server thread/INFO]: Channel update: Relaxingame2 -> default
+[01:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[01:21:29] [Server thread/INFO]: [Not Secure] <Tronks94> XDDDD
+[01:22:35] [Server thread/WARN]: YoshiGamerDS27 moved too quickly! -9.622394377979958,2.176759275064242,-2.151083080910894
+[01:24:16] [Server thread/INFO]: Villager class_1646['Villager'/141128, l='ServerLevel[world]', x=-121.33, y=84.00, z=-171.57] died, message: 'Villager was slain by Tronks94 using [TRONKS SWORD]'
+[01:26:36] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> duerman
+[01:27:07] [Server thread/INFO]: Zane[/127.87.230.6:33587] logged in with entity id 147213 at (-953.5869291381233, 84.0625, -1269.853661372746)
+[01:27:07] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:27:07] [Server thread/INFO]: Zane joined the game
+[01:27:09] [Server thread/INFO]: Channel update: Zane -> default
+[01:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:28:03] [Server thread/INFO]: [Not Secure] <Tronks94> z
+[01:28:31] [Server thread/INFO]: [Not Secure] <Zane> no se si es solo a mi pero me esta dando mucho lag, hola a todos btw
+[01:28:43] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> hola zane
+[01:32:30] [Server thread/INFO]: vodogesito[/127.139.10.88:33037] logged in with entity id 155942 at (4.5, 65.0, -5.5)
+[01:32:30] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:32:30] [Server thread/INFO]: vodogesito joined the game
+[01:32:33] [Server thread/INFO]: Channel update: vodogesito -> default
+[01:32:43] [Server thread/INFO]: [Not Secure] <Zane> hola vodoguee
+[01:33:19] [Server thread/INFO]: Villager class_1646['Villager'/157090, l='ServerLevel[world]', x=-533.30, y=-31.26, z=-438.30] died, message: 'Villager was squished too much'
+[01:33:26] [Server thread/INFO]: [Not Secure] <vodogesito> pasen coordenadas xd
+[01:33:27] [Server thread/INFO]: [Not Secure] <Relaxingame2> vodooooooogue
+[01:33:35] [Server thread/INFO]: [Not Secure] <Relaxingame2> manda coorsd del spawn
+[01:33:50] [Server thread/INFO]: [Not Secure] <Tronks94> -1000 -1300
+[01:33:56] [Server thread/INFO]: [Not Secure] <vodogesito> 24 ñ, 65-1
+[01:34:09] [Server thread/INFO]: [Not Secure] <vodogesito> 24, 65 -13
+[01:34:33] [Server thread/INFO]: [Not Secure] <vodogesito> me va super fluido tronks
+[01:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:34:53] [Server thread/INFO]: [Not Secure] <Zane> a mi me va hyper lento
+[01:34:54] [Server thread/INFO]: [Not Secure] <vodogesito> tuculo se mueve a 2 fps
+[01:34:56] [Server thread/INFO]: [Not Secure] <Zane> con lag y delay xdddd
+[01:35:05] [Server thread/INFO]: [Not Secure] <Tronks94> por maue zane
+[01:35:10] [Server thread/INFO]: [Not Secure] <Tronks94> un celular te gano
+[01:35:14] [Server thread/INFO]: [Not Secure] <Tronks94> maje*
+[01:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01:35:23] [Server thread/INFO]: [Not Secure] <Zane> repito, tengo programas de ingenieria xd
+[01:35:28] [Server thread/INFO]: [Not Secure] <vodogesito> porqué el árbol que tale se esfumo
+[01:36:47] [Server thread/INFO]: [Not Secure] <vodogesito> denme raid
+[01:37:09] [Server thread/INFO]: [Not Secure] <Zane> relaxing
+[01:37:13] [Server thread/INFO]: [Not Secure] <Zane> entra a mi kasa
+[01:37:24] [Server thread/INFO]: [Not Secure] <Zane> termine el interior del primer y segundo piso :p
+[01:37:34] [Server thread/INFO]: [Not Secure] <Zane> tu tmb tronks
+[01:37:39] [Server thread/INFO]: [Not Secure] <vodogesito> pasen coordenadas
+[01:37:47] [Server thread/INFO]: [Not Secure] <Zane> mira
+[01:37:55] [Server thread/INFO]: [Not Secure] <Zane> o bueno miren xd
+[01:38:05] [Server thread/INFO]: [Not Secure] <Zane> ahi falta tronks
+[01:38:07] [Server thread/INFO]: [Not Secure] <vodogesito> 946-1200
+[01:38:09] [Server thread/INFO]: [Not Secure] <Zane> es el ultimo piso
+[01:38:14] [Server thread/INFO]: [Not Secure] <Zane> pero el segundo y primero ya estn
+[01:38:35] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[01:38:35] [Server thread/INFO]: patitoYOCHI left the game
+[01:38:44] [Server thread/INFO]: [Not Secure] <Zane> tomen foto
+[01:39:18] [Server thread/INFO]: [Not Secure] <Zane> oka yoshi invitada
+[01:39:21] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> ta god
+[01:39:21] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:35435] logged in with entity id 169455 at (-837.9871548044931, 72.0, -1004.211117476226)
+[01:39:21] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:39:21] [Server thread/INFO]: patitoYOCHI joined the game
+[01:39:21] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[01:40:04] [Server thread/INFO]: [Not Secure] <Relaxingame2> zane
+[01:40:07] [Server thread/INFO]: [Not Secure] <Zane> ola
+[01:40:13] [Server thread/INFO]: [Not Secure] <Relaxingame2> sabias que hay elevadores
+[01:40:21] [Server thread/INFO]: [Not Secure] <Zane> ah si
+[01:40:25] [Server thread/INFO]: [Not Secure] <Zane> pero me gusta que este asi
+[01:40:27] [Server thread/INFO]: [Not Secure] <Zane> ajsjasj
+[01:40:31] [Server thread/INFO]: [Not Secure] <Tronks94> zzzz
+[01:41:14] [Server thread/INFO]: [Not Secure] <Zane> manden saludo a dott de mi parte
+[01:41:18] [Server thread/INFO]: [Not Secure] <Zane> no puedo hablar ahorita
+[01:41:40] [Server thread/INFO]: [Not Secure] <Zane> xd
+[01:41:43] [Server thread/INFO]: [Not Secure] <vodogesito> MAMA ME ESTAN VIOLANDO CARAJO
+[01:41:45] [Server thread/INFO]: [Not Secure] <Zane> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01:41:52] [Server thread/INFO]: [Not Secure] <Zane> XDDDD
+[01:41:58] [Server thread/INFO]: [Not Secure] <Zane> ke pazo
+[01:42:05] [Server thread/INFO]: [Not Secure] <Tronks94> durman
+[01:42:10] [Server thread/INFO]: [Not Secure] <vodogesito> me están cogiendo 5 zombies
+[01:42:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> te gusto?
+[01:42:36] [Server thread/INFO]: [Not Secure] <Zane> ci
+[01:42:39] [Server thread/INFO]: [Not Secure] <Relaxingame2> ok
+[01:42:43] [Server thread/INFO]: [Not Secure] <vodogesito> mucho
+[01:42:46] [Server thread/INFO]: vodogesito was slain by Spider
+[01:42:46] [Server thread/INFO]: Placed vodogesito's gravestone at (119, 63, -412) in minecraft:overworld
+[01:42:55] [Server thread/INFO]: [Not Secure] <Zane> XD
+[01:42:55] [Server thread/INFO]: [Not Secure] <Tronks94> asd
+[01:42:57] [Server thread/INFO]: xxraykingsxx lost connection: Disconnected
+[01:42:57] [Server thread/INFO]: xxraykingsxx left the game
+[01:43:00] [Server thread/INFO]: [Not Secure] <vodogesito> MALDITA ARAÑA
+[01:43:00] [Server thread/WARN]: patitoYOCHI moved too quickly! 9.730997367566829,2.249187078744683,-1.0495429387253807
+[01:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:44:42] [Server thread/INFO]: [Not Secure] <Tronks94> -959 -1387
+[01:45:10] [Server thread/INFO]: [Not Secure] <Tronks94> k
+[01:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:46:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[01:46:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[01:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[01:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[01:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[01:47:53] [Server thread/INFO]: [Not Secure] <Zane> volvi
+[01:48:02] [Server thread/INFO]: [Not Secure] <Tronks94> oa oa oo
+[01:48:07] [Server thread/INFO]: Villager class_1646['Villager'/178994, l='ServerLevel[world]', x=-533.30, y=-31.22, z=-438.30] died, message: 'Villager was squished too much'
+[01:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
+[01:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[01:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[01:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01:49:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[01:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[01:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[01:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
+[01:50:54] [Server thread/INFO]: [Not Secure] <Zane> volvi por dos
+[01:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[01:51:19] [Server thread/INFO]: [Not Secure] <Zane> Los quiero chicos
+[01:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[01:51:21] [Server thread/INFO]: [Not Secure] <Zane> mucho
+[01:51:32] [Server thread/INFO]: [Not Secure] <Tronks94> note mates
+[01:51:35] [Server thread/INFO]: [Not Secure] <vodogesito> Yoshi XDDD
+[01:51:36] [Server thread/INFO]: [Not Secure] <Tronks94> yo a ti maje
+[01:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[01:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
+[01:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:53:01] [Server thread/INFO]: [Not Secure] <vodogesito> le metes el pito a uno y lito
+[01:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[01:53:29] [Server thread/INFO]: [Not Secure] <vodogesito> mano me mato una araña
+[01:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[01:54:57] [Server thread/INFO]: [Not Secure] <Zane> zzz musaso
+[01:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:55:54] [Server thread/INFO]: vodogesito was shot by Skeleton
+[01:55:54] [Server thread/INFO]: Placed vodogesito's gravestone at (1049, 80, -1328) in minecraft:overworld
+[01:56:00] [Server thread/INFO]: [Not Secure] <vodogesito> PUTAMADREEE
+[01:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:56:18] [Server thread/INFO]: [Not Secure] <vodogesito> ESTABA A 100ETROS ESQUELETO DE MIERDAA
+[01:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[01:56:29] [Server thread/INFO]: [Not Secure] <Zane> DUERMANNNNNNN
+[01:56:32] [Server thread/INFO]: [Not Secure] <Zane> Xd
+[01:56:32] [Server thread/INFO]: vodogesito was slain by Zombie
+[01:56:32] [Server thread/INFO]: Placed vodogesito's gravestone at (-5, 64, 1) in minecraft:overworld
+[01:56:37] [Server thread/INFO]: [Not Secure] <vodogesito> VERGA
+[01:56:37] [Server thread/INFO]: [Not Secure] <Zane> XD por dos
+[01:56:44] [Server thread/INFO]: [Not Secure] <Tronks94> ontas vodoge te llevo
+[01:56:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[01:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[01:57:07] [Server thread/INFO]: [Not Secure] <vodogesito> ;(
+[01:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3099ms or 61 ticks behind
+[01:58:04] [Server thread/INFO]: [Not Secure] <vodogesito> cuál era la coordenada
+[01:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[01:58:14] [Server thread/INFO]: [Not Secure] <Tronks94> -1000 -1300
+[01:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:58:55] [Server thread/INFO]: [Not Secure] <vodogesito> en mediai casa
+[01:59:01] [Server thread/INFO]: Tree reached max size of 100
+[01:59:04] [Server thread/INFO]: Tree reached max size of 100
+[01:59:04] [Server thread/INFO]: Tree reached max size of 100
+[01:59:05] [Server thread/INFO]: Tree reached max size of 100
+[01:59:06] [Server thread/INFO]: Tree reached max size of 100
+[01:59:07] [Server thread/INFO]: Tree reached max size of 100
+[01:59:07] [Server thread/INFO]: Tree reached max size of 100
+[01:59:08] [Server thread/INFO]: Tree reached max size of 100
+[01:59:09] [Server thread/INFO]: Tree reached max size of 100
+[01:59:09] [Server thread/INFO]: Tree reached max size of 100
+[01:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[01:59:10] [Server thread/INFO]: Tree reached max size of 100
+[01:59:11] [Server thread/INFO]: Tree reached max size of 100
+[01:59:23] [Server thread/INFO]: Diego_hdez29 has made the advancement [The Parrots and the Bats]
+[01:59:43] [Server thread/INFO]: [Not Secure] <vodogesito> cómo me agarras tronks?
+[01:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:59:56] [Server thread/INFO]: xxraykingsxx[/127.42.43.245:40127] logged in with entity id 213852 at (-1544.8431446945285, -13.0, -1063.8540433451226)
+[01:59:56] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[01:59:56] [Server thread/INFO]: xxraykingsxx joined the game
+[01:59:56] [Server thread/INFO]: Channel update: xxraykingsxx -> default
+[01:59:58] [Server thread/INFO]: Command execution stopped due to limit (executed 65536 commands)
+[02:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[02:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[02:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2618ms or 52 ticks behind
+[02:01:16] [Server thread/INFO]: [Not Secure] <vodogesito> malo
+[02:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[02:01:28] [Server thread/INFO]: [Not Secure] <vodogesito> las vacas no se matan
+[02:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[02:01:46] [Server thread/INFO]: [Not Secure] <vodogesito> mátate tu cabroonnnn
+[02:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[02:02:03] [Server thread/INFO]: [Not Secure] <vodogesito> comemeesta
+[02:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[02:02:19] [Server thread/INFO]: [Not Secure] <vodogesito> QUE XD
+[02:02:27] [Server thread/INFO]: YoshiGamerDS27 fell from a high place
+[02:02:27] [Server thread/INFO]: Created new backpack backup file for YoshiGamerDS27 with unique ID travelersbackpack.standard_23.07.2026-02.02.27.dat
+[02:02:27] [Server thread/INFO]: Placed YoshiGamerDS27's gravestone at (-636, 25, -530) in minecraft:overworld
+[02:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:02:35] [Server thread/INFO]: [Not Secure] <vodogesito> hijdeperra me estás matando
+[02:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[02:03:14] [Server thread/INFO]: [Not Secure] <vodogesito> burraso creo que el daño solo me lo llevo yo
+[02:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5248ms or 104 ticks behind
+[02:03:31] [Server thread/INFO]: [Not Secure] <vodogesito> tengo 3 coras
+[02:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[02:03:48] [Server thread/INFO]: [Not Secure] <vodogesito> hacker
+[02:03:55] [Server thread/INFO]: [Not Secure] <vodogesito> MALDITO PUTO
+[02:04:18] [Server thread/INFO]: [Not Secure] <vodogesito> au yo
+[02:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[02:04:54] [Server thread/INFO]: [Not Secure] <vodogesito> aquí me mori
+[02:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[02:05:19] [Server thread/INFO]: [Not Secure] <vodogesito> mejor camina wey
+[02:05:34] [Server thread/INFO]: [Not Secure] <vodogesito> cuando trepas me sacas media vida
+[02:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02:05:41] [Server thread/INFO]: [Not Secure] <Zane> oli
+[02:05:44] [Server thread/INFO]: [Not Secure] <vodogesito> AHHH
+[02:05:49] [Server thread/INFO]: [Not Secure] <Diego_hdez29> boenas
+[02:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:05:55] [Server thread/INFO]: [Not Secure] <vodogesito> HIJO DE LAVERGA
+[02:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[02:06:19] [Server thread/INFO]: [Not Secure] <vodogesito> el que vea la transmisión ess gay
+[02:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[02:06:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> deja veo pues
+[02:06:36] [Server thread/INFO]: [Not Secure] <vodogesito> la concha de tu hermana
+[02:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[02:06:57] [Server thread/INFO]: [Not Secure] <vodogesito> XDDD
+[02:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[02:07:08] [Server thread/INFO]: [Not Secure] <vodogesito> Maje vengo todo moretoneado
+[02:08:31] [Server thread/INFO]: [Not Secure] <Zane> ola
+[02:08:34] [Server thread/INFO]: [Not Secure] <Tronks94> oa oa oo
+[02:08:39] [Server thread/INFO]: [Not Secure] <Zane> ando en farmeo de esmeraldas tronks
+[02:08:44] [Server thread/INFO]: [Not Secure] <Diego_hdez29> wao
+[02:08:44] [Server thread/INFO]: [Not Secure] <Zane> OA OA O O
+[02:08:46] [Server thread/INFO]: [Not Secure] <Tronks94> toma maje
+[02:08:56] [Server thread/INFO]: [Not Secure] <Zane> :0
+[02:09:01] [Server thread/INFO]: [Not Secure] <Zane> diavlo gracias mahe
+[02:09:05] [Server thread/INFO]: [Not Secure] <Zane> muchas gracias
+[02:09:08] [Server thread/INFO]: [Not Secure] <Tronks94> denada maje
+[02:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:09:28] [Server thread/INFO]: Villager class_1646['Villager'/224064, l='ServerLevel[world]', x=-533.30, y=-31.28, z=-438.30] died, message: 'Villager was squished too much'
+[02:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:09:53] [Server thread/INFO]: vodogesito has made the advancement [Cover Me with Diamonds]
+[02:10:05] [Server thread/INFO]: [Not Secure] <vodogesito> graciasmaje
+[02:10:18] [Server thread/INFO]: vodogesito has made the advancement [Custom Backpacks]
+[02:10:21] [Server thread/INFO]: [Not Secure] <Diego_hdez29> zzzzz
+[02:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[02:11:12] [Server thread/INFO]: vodogesito has made the advancement [Sweet Dreams]
+[02:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[02:11:30] [Server thread/INFO]: [Not Secure] <vodogesito> duermanculeros
+[02:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[02:12:01] [Server thread/INFO]: YoshiGamerDS27 has found their grave at (-636, 25, -530)
+[02:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[02:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[02:13:30] [Server thread/INFO]: vodogesito has made the advancement [Monster Hunter]
+[02:14:29] [Server thread/INFO]: [Not Secure] <vodogesito> nomesaludaron
+[02:14:39] [Server thread/INFO]: [Not Secure] <patitoYOCHI> Xd
+[02:15:02] [Server thread/INFO]: Zane was shot by Skeleton
+[02:15:02] [Server thread/INFO]: Created new backpack backup file for Zane with unique ID travelersbackpack.standard_23.07.2026-02.15.02.dat
+[02:15:02] [Server thread/INFO]: Placed Zane's gravestone at (-993, 64, -1349) in minecraft:overworld
+[02:15:32] [Server thread/INFO]: Zane has found their grave at (-993, 64, -1349)
+[02:16:03] [Server thread/INFO]: Astol21[/127.230.153.41:57123] logged in with entity id 246930 at (-990.5372625403244, 66.0, -1280.8397343691747)
+[02:16:03] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:16:03] [Server thread/INFO]: Astol21 joined the game
+[02:16:04] [Server thread/INFO]: Channel update: Astol21 -> default
+[02:16:09] [Server thread/INFO]: [Not Secure] <Astol21> hgola
+[02:16:14] [Server thread/INFO]: [Not Secure] <Zane> TU CARA EN MI BOLA
+[02:16:18] [Server thread/INFO]: [Not Secure] <Zane> zzzzz
+[02:17:12] [Server thread/INFO]: [Not Secure] <xxraykingsxx> ami me respetas puto
+[02:17:34] [Server thread/INFO]: [Not Secure] <Zane> OLI
+[02:17:37] [Server thread/INFO]: [Not Secure] <Astol21> hoollapana
+[02:17:59] [Server thread/INFO]: [Not Secure] <Zane> ire a buscar obsidiana
+[02:18:03] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.5[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.5[0;39m
+[02:18:29] [Server thread/INFO]: xxraykingsxx lost connection: Disconnected
+[02:18:29] [Server thread/INFO]: xxraykingsxx left the game
+[02:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:20:59] [Server thread/INFO]: YoshiGamerDS27 lost connection: Disconnected
+[02:20:59] [Server thread/INFO]: YoshiGamerDS27 left the game
+[02:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:22:57] [Server thread/INFO]: [Not Secure] <Zane> vodoguee ese es terreno de tronks
+[02:23:02] [Server thread/INFO]: [Not Secure] <Astol21> xdd
+[02:23:02] [Server thread/INFO]: [Not Secure] <Zane> perdon de locksack
+[02:23:17] [Server thread/INFO]: [Not Secure] <vodogesito> taba quedando con madre mi casa
+[02:23:18] [Server thread/INFO]: [Not Secure] <Zane> aca van a ir las torres gemelas xddddddd
+[02:24:19] [Server thread/INFO]: Zane has made the advancement [Hot Stuff]
+[02:24:32] [Server thread/INFO]: Zane has made the advancement [Ice Bucket Challenge]
+[02:25:10] [Server thread/INFO]: Relaxingame2 has reached the goal [Beaconator]
+[02:25:10] [Server thread/INFO]: Relaxingame2 has made the advancement [Bring Home the Beacon]
+[02:29:25] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[02:29:36] [Server thread/INFO]: [Not Secure] <Astol21> duermannnnnnnn
+[02:29:37] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[02:29:38] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[02:29:38] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[02:29:39] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[02:29:40] [Server thread/INFO]: [Not Secure] <Diego_hdez29> zzzzzz
+[02:30:50] [Server thread/INFO]: [Not Secure] <Zane> oe
+[02:30:54] [Server thread/INFO]: [Not Secure] <Zane> mi obsidiana
+[02:31:15] [Server thread/INFO]: [Not Secure] <Zane> tenkiu
+[02:31:32] [Server thread/INFO]: [Not Secure] <Zane> hay un peruano en mi casa y no soy yo
+[02:32:41] [Server thread/INFO]: xxraykingsxx[/127.42.43.245:39969] logged in with entity id 280847 at (-934.4702330130546, 64.0, -1384.1230217700156)
+[02:32:41] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:32:41] [Server thread/INFO]: xxraykingsxx joined the game
+[02:32:41] [Server thread/INFO]: Channel update: xxraykingsxx -> default
+[02:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[02:33:55] [Server thread/INFO]: [Not Secure] <xxraykingsxx> que es esta majeria
+[02:35:43] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:60955] logged in with entity id 285592 at (-649.5065785008625, 88.0, -542.5581185824024)
+[02:35:43] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:35:43] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[02:35:56] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[02:36:39] [Server thread/INFO]: [Not Secure] <xxraykingsxx> presiona la k
+[02:36:51] [Server thread/INFO]: [Not Secure] <Astol21> nig
+[02:37:16] [Server thread/INFO]: [Not Secure] <xxraykingsxx> te golpee y volvvio a salir
+[02:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:39:02] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[02:39:02] [Server thread/INFO]: patitoYOCHI left the game
+[02:39:41] [Server thread/INFO]: vodogesito has made the advancement [Stone Age]
+[02:40:13] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[02:40:13] [Server thread/INFO]: YoshiGamerDS27 left the game
+[02:41:19] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:33043] logged in with entity id 296166 at (-592.9105653573753, 62.11076431274414, -765.7732731128297)
+[02:41:19] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:41:19] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[02:41:20] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[02:41:25] [Server thread/INFO]: [Not Secure] <Tronks94> quedan 6 o 7
+[02:41:33] [Server thread/INFO]: [Not Secure] <Astol21> 6767667677
+[02:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02:41:36] [Server thread/INFO]: Villager class_1646['Villager'/294949, l='ServerLevel[world]', x=-533.30, y=-31.30, z=-438.30] died, message: 'Villager was squished too much'
+[02:41:42] [Server thread/INFO]: [Not Secure] <Zane> astol ven a mi kasa
+[02:41:49] [Server thread/INFO]: [Not Secure] <Astol21> voy
+[02:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02:43:18] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:35577] logged in with entity id 299154 at (-878.3835965841633, 64.0, -1335.6901158667554)
+[02:43:18] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:43:18] [Server thread/INFO]: patitoYOCHI joined the game
+[02:43:18] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[02:43:30] [Server thread/INFO]: [Not Secure] <Zane> se conecto el terror de la construcciones x2
+[02:43:36] [Server thread/INFO]: [Not Secure] <Astol21> xddddd
+[02:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[02:44:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[02:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[02:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4224ms or 84 ticks behind
+[02:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
+[02:45:37] [Server thread/INFO]: vodogesito was slain by Zombie
+[02:45:37] [Server thread/INFO]: Placed vodogesito's gravestone at (-929, 63, -1295) in minecraft:overworld
+[02:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4518ms or 90 ticks behind
+[02:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
+[02:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
+[02:46:19] [Server thread/INFO]: vodogesito has found their grave at (-929, 63, -1295)
+[02:46:26] [Server thread/INFO]: vodogesito was slain by Zombie
+[02:46:26] [Server thread/INFO]: Placed vodogesito's gravestone at (-929, 63, -1295) in minecraft:overworld
+[02:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:46:45] [Server thread/INFO]: vodogesito has found their grave at (-929, 63, -1295)
+[02:46:46] [Server thread/INFO]: xxraykingsxx lost connection: Disconnected
+[02:46:46] [Server thread/INFO]: xxraykingsxx left the game
+[02:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02:47:30] [Server thread/INFO]: [Not Secure] <Tronks94> te e cachado
+[02:47:40] [Server thread/INFO]: [Not Secure] <Tronks94> ASU MADRE
+[02:48:15] [Server thread/INFO]: vodogesito was blown up by Creeper
+[02:48:15] [Server thread/INFO]: Placed vodogesito's gravestone at (-796, 66, -1275) in minecraft:overworld
+[02:48:24] [Server thread/INFO]: [Not Secure] <vodogesito> XD
+[02:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[02:49:58] [Server thread/INFO]: vodogesito has found their grave at (-796, 66, -1275)
+[02:50:07] [Server thread/INFO]: [Not Secure] <patitoYOCHI> xD
+[02:50:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[02:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:50:41] [Server thread/INFO]: vodogesito was slain by Zombie
+[02:50:41] [Server thread/INFO]: Placed vodogesito's gravestone at (-849, 65, -1324) in minecraft:overworld
+[02:50:59] [Server thread/INFO]: [Not Secure] <vodogesito> que yo hice dónde lo explote?
+[02:51:08] [Server thread/INFO]: [Not Secure] <Astol21> mi granja
+[02:51:29] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Intruder Alert]
+[02:51:35] [Server thread/INFO]: [Not Secure] <Tronks94> majes hagamos granja de oeo
+[02:51:41] [Server thread/INFO]: [Not Secure] <Astol21> de que cosa
+[02:51:41] [Server thread/INFO]: [Not Secure] <vodogesito> perdón Maje taba runniando ni ví XD
+[02:51:41] [Server thread/INFO]: [Not Secure] <Tronks94> oro*
+[02:52:01] [Server thread/INFO]: [Not Secure] <Tronks94> yia vengo
+[02:52:04] [Server thread/INFO]: Tronks94 lost connection: Disconnected
+[02:52:04] [Server thread/INFO]: Tronks94 left the game
+[02:52:08] [Server thread/INFO]: vodogesito has found their grave at (-849, 65, -1324)
+[02:53:07] [Server thread/INFO]: xxraykingsxx[/127.42.43.245:43727] logged in with entity id 318037 at (-958.5564964939833, 63.0, -1384.9584175089808)
+[02:53:07] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:53:07] [Server thread/INFO]: xxraykingsxx joined the game
+[02:53:08] [Server thread/INFO]: Channel update: xxraykingsxx -> default
+[02:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3285ms or 65 ticks behind
+[02:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[02:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[02:55:25] [Server thread/INFO]: [Not Secure] <Zane> Ahora si astol ven
+[02:55:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[02:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[02:56:05] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[02:56:05] [Server thread/INFO]: patitoYOCHI left the game
+[02:56:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02:56:23] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:54407] logged in with entity id 324406 at (-965.7551679895743, 68.0, -1326.3764556767433)
+[02:56:23] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:56:23] [Server thread/INFO]: patitoYOCHI joined the game
+[02:56:23] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[02:56:29] [Server thread/INFO]: Villager class_1646['Villager'/319881, l='ServerLevel[world]', x=-533.30, y=-31.16, z=-438.30] died, message: 'Villager was squished too much'
+[02:56:30] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[02:56:30] [Server thread/INFO]: patitoYOCHI left the game
+[02:56:33] [Server thread/INFO]: Villager class_1646['Villager'/319887, l='ServerLevel[world]', x=-533.30, y=-31.28, z=-438.30] died, message: 'Villager was squished too much'
+[02:56:44] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:57519] logged in with entity id 324782 at (-969.4001000006623, 68.0, -1321.1344341942313)
+[02:56:44] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:56:44] [Server thread/INFO]: patitoYOCHI joined the game
+[02:56:44] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[02:57:11] [Server thread/INFO]: [Not Secure] <Zane> xd
+[02:57:17] [Server thread/INFO]: [Not Secure] <Zane> mira
+[02:57:20] [Server thread/INFO]: [Not Secure] <Astol21> q
+[02:57:21] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[02:57:21] [Server thread/INFO]: patitoYOCHI left the game
+[02:57:27] [Server thread/INFO]: [Not Secure] <Zane> termine la deco de mi kaa
+[02:57:28] [Server thread/INFO]: [Not Secure] <Zane> kasa
+[02:57:32] [Server thread/INFO]: [Not Secure] <Astol21> DE TU GAAAA
+[02:57:42] [Server thread/INFO]: [Not Secure] <Astol21> su madre
+[02:58:02] [Server thread/INFO]: patitoYOCHI[/127.186.157.245:46419] logged in with entity id 326687 at (-825.7199333276857, 68.0625, -1306.6711461095524)
+[02:58:02] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[02:58:02] [Server thread/INFO]: patitoYOCHI joined the game
+[02:58:02] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[02:58:06] [Server thread/INFO]: [Not Secure] <Astol21> fue sin querer maje
+[02:58:09] [Server thread/INFO]: [Not Secure] <Zane> ntp
+[02:58:23] [Server thread/INFO]: [Not Secure] <Astol21> me mola tu pollita
+[02:58:49] [Server thread/INFO]: [Not Secure] <Zane> en este blacno quiero
+[02:58:51] [Server thread/INFO]: [Not Secure] <Zane> poner
+[02:58:53] [Server thread/INFO]: [Not Secure] <Zane> un teleport
+[02:58:56] [Server thread/INFO]: [Not Secure] <Astol21> o
+[02:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:59:04] [Server thread/INFO]: [Not Secure] <Zane> xd
+[02:59:06] [Server thread/INFO]: [Not Secure] <Astol21> xddd
+[02:59:37] [Server thread/INFO]: [Not Secure] <Zane> y ia
+[02:59:38] [Server thread/INFO]: [Not Secure] <Zane> xd
+[02:59:42] [Server thread/INFO]: [Not Secure] <Zane> sabes como se hace uno?
+[02:59:42] [Server thread/INFO]: [Not Secure] <Astol21> buena casa maje
+[02:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:59:47] [Server thread/INFO]: [Not Secure] <Astol21> el teleport como?
+[02:59:47] [Server thread/INFO]: [Not Secure] <Zane> gracias
+[02:59:49] [Server thread/INFO]: [Not Secure] <Astol21> de elevador?
+[02:59:51] [Server thread/INFO]: [Not Secure] <Astol21> o waystone?
+[02:59:52] [Server thread/INFO]: [Not Secure] <Zane> mira y aca como
+[02:59:58] [Server thread/INFO]: [Not Secure] <Zane> digo duermo xdd
+[03:00:08] [Server thread/INFO]: [Not Secure] <Astol21> duerman pues
+[03:00:09] [Server thread/INFO]: [Not Secure] <Zane> zzzz
+[03:00:18] [Server thread/INFO]: vodogesito was slain by Zombie
+[03:00:18] [Server thread/INFO]: Placed vodogesito's gravestone at (-855, 63, -1231) in minecraft:overworld
+[03:00:20] [Server thread/INFO]: [Not Secure] <Zane> XD
+[03:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:00:34] [Server thread/INFO]: [Not Secure] <Zane> ese que tienes en tu casa
+[03:00:44] [Server thread/INFO]: [Not Secure] <vodogesito> taba afk
+[03:01:08] [Server thread/INFO]: [Not Secure] <Zane> ah su
+[03:01:11] [Server thread/INFO]: [Not Secure] <Zane> balcon poes
+[03:01:17] [Server thread/INFO]: Zane was doomed to fall by Astol21
+[03:01:17] [Server thread/INFO]: Created new backpack backup file for Zane with unique ID travelersbackpack.standard_23.07.2026-03.01.17.dat
+[03:01:17] [Server thread/INFO]: Placed Zane's gravestone at (-951, 70, -1284) in minecraft:overworld
+[03:01:22] [Server thread/INFO]: [Not Secure] <Astol21> FUE SIN QUERER MAJE
+[03:01:31] [Server thread/INFO]: Zane has found their grave at (-951, 70, -1284)
+[03:01:41] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> a
+[03:01:45] [Server thread/INFO]: vodogesito has found their grave at (-855, 63, -1231)
+[03:01:53] [Server thread/INFO]: [Not Secure] <Astol21> yo voy a hhacer mi casa
+[03:01:53] [Server thread/INFO]: [Not Secure] <Zane> y yap
+[03:01:53] [Server thread/INFO]: [Not Secure] <Astol21> xdf
+[03:02:02] [Server thread/INFO]: [Not Secure] <Zane> eso seria mi casa pero voy a levantar dos torres mas
+[03:02:09] [Server thread/INFO]: [Not Secure] <Astol21> las torres gemelas?
+[03:02:12] [Server thread/INFO]: [Not Secure] <Zane> como la derecha
+[03:02:14] [Server thread/INFO]: [Not Secure] <Zane> xddddd
+[03:02:15] [Server thread/INFO]: [Not Secure] <Astol21> aa
+[03:02:16] [Server thread/INFO]: [Not Secure] <Zane> XDD
+[03:02:32] [Server thread/INFO]: [Not Secure] <Zane> solo quiero saber como hacer esto
+[03:02:34] [Server thread/INFO]: [Not Secure] <Zane> de qui
+[03:02:35] [Server thread/INFO]: [Not Secure] <Astol21> aa
+[03:02:39] [Server thread/INFO]: [Not Secure] <Astol21> yo me la encontre
+[03:02:51] [Server thread/INFO]: [Not Secure] <Zane> asu
+[03:03:04] [Server thread/INFO]: [Not Secure] <Astol21> mira la captura en dc
+[03:03:11] [Server thread/INFO]: Diego_hdez29 lost connection: Disconnected
+[03:03:11] [Server thread/INFO]: Diego_hdez29 left the game
+[03:03:11] [Server thread/INFO]: [Not Secure] <Zane> voy
+[03:03:35] [Server thread/INFO]: xxraykingsxx lost connection: Disconnected
+[03:03:35] [Server thread/INFO]: xxraykingsxx left the game
+[03:03:40] [Server thread/INFO]: [Not Secure] <Zane> que sera lo del centro
+[03:03:46] [Server thread/INFO]: [Not Secure] <Astol21> esto
+[03:03:52] [Server thread/INFO]: [Not Secure] <Zane> oka
+[03:03:54] [Server thread/INFO]: [Not Secure] <Astol21> y ese se hace con perlas
+[03:03:55] [Server thread/INFO]: [Not Secure] <Zane> donde se consigue
+[03:03:59] [Server thread/INFO]: [Not Secure] <Zane> oki
+[03:06:57] [Server thread/INFO]: [Not Secure] <Zane> creo que la mitad de mis muertes me mato astol xd
+[03:07:01] [Server thread/INFO]: [Not Secure] <Astol21> mas mentiroso xd
+[03:07:04] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[03:07:20] [Server thread/INFO]: Felxnord[/127.103.5.36:33817] logged in with entity id 339610 at (-868.5138978808662, 65.0, -1252.024385227709)
+[03:07:20] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:07:20] [Server thread/INFO]: Felxnord joined the game
+[03:07:22] [Server thread/INFO]: Channel update: Felxnord -> default
+[03:07:52] [Server thread/INFO]: [Not Secure] <Felxnord> Buenas
+[03:08:35] [Server thread/INFO]: [Not Secure] <Felxnord> Como que Cafefloo tiene 20 muertes?
+[03:08:50] [Server thread/INFO]: [Not Secure] <Felxnord> En efecto destronaron a Yoshi
+[03:10:43] [Server thread/INFO]: [Not Secure] <Felxnord> Wow que novedad
+[03:10:46] [Server thread/INFO]: [Not Secure] <Astol21> xd
+[03:11:04] [Server thread/INFO]: [Not Secure] <Felxnord> alguien que tenga bastante pizarra profunda?
+[03:11:05] [Server thread/INFO]: Villager class_1646['Villager'/342974, l='ServerLevel[world]', x=-996.69, y=68.92, z=-1324.71] died, message: 'Villager was slain by Astol21'
+[03:12:02] [Server thread/INFO]: [Not Secure] <Astol21> duierman
+[03:12:21] [Server thread/INFO]: [Not Secure] <Astol21> DUERMAN PUES
+[03:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:15:02] [Server thread/INFO]: [Not Secure] <Felxnord> Aprendieron de Ordelik
+[03:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[03:15:51] [Server thread/INFO]: No return portal found
+[03:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[03:16:00] [Server thread/INFO]: [Not Secure] <Felxnord> a que altura está el Portal del Nether?
+[03:16:06] [Server thread/INFO]: [Not Secure] <Felxnord> en el nether no en el overworld
+[03:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[03:17:03] [Server thread/INFO]: Villager class_1646['Villager'/353929, l='ServerLevel[world]', x=-533.30, y=-31.27, z=-438.30] died, message: 'Villager was squished too much'
+[03:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[03:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[03:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[03:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[03:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[03:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:19:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[03:20:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[03:20:30] [Server thread/INFO]: No return portal found
+[03:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:21:21] [Server thread/INFO]: [Not Secure] <Astol21> asd
+[03:21:21] [Server thread/WARN]: YoshiGamerDS27 moved too quickly! 3.377930572825619,0.0,-9.555077158180211
+[03:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15392ms or 307 ticks behind
+[03:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:21:51] [Server thread/INFO]: Felxnord lost connection: Timed out
+[03:21:51] [Server thread/INFO]: Felxnord left the game
+[03:22:21] [Server thread/INFO]: Felxnord[/127.103.5.36:52899] logged in with entity id 361491 at (-64.68420423254567, 192.0, -167.98707210620907)
+[03:22:21] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:22:21] [Server thread/INFO]: Felxnord joined the game
+[03:22:23] [Server thread/INFO]: Channel update: Felxnord -> default
+[03:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[03:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[03:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[03:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[03:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[03:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03:25:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:26:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[03:26:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[03:27:38] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Forgotten Fae]
+[03:27:54] [Server thread/INFO]: Villager class_1646['Villager'/370219, l='ServerLevel[world]', x=-1003.50, y=67.00, z=-1316.50] died, message: 'Villager went up in flames'
+[03:29:04] [Server thread/INFO]: No return portal found
+[03:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[03:30:05] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> y yo po
+[03:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:32:03] [Server thread/INFO]: Villager class_1646['Villager'/373973, l='ServerLevel[world]', x=-533.30, y=-31.27, z=-438.30] died, message: 'Villager was squished too much'
+[03:32:12] [Server thread/INFO]: [Not Secure] <Astol21> 7w7
+[03:33:07] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[03:33:07] [Server thread/INFO]: YoshiGamerDS27 left the game
+[03:34:49] [Server thread/INFO]: Astol21 has made the advancement [Hot Stuff]
+[03:35:24] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:45593] logged in with entity id 381838 at (-467.12773210789527, 65.14202409050252, -1307.8571827658677)
+[03:35:24] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:35:24] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[03:35:29] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[03:35:44] [Server thread/INFO]: Villager class_1646['Villager'/380347, l='ServerLevel[world]', x=-533.30, y=-31.30, z=-438.30] died, message: 'Villager was squished too much'
+[03:36:01] [Server thread/WARN]: patitoYOCHI moved too quickly! -7.8065246126531065,1.0013359791121417,-6.327775810167623
+[03:39:49] [Server thread/INFO]: Astol21 lost connection: Disconnected
+[03:39:49] [Server thread/INFO]: Astol21 left the game
+[03:40:29] [Server thread/INFO]: Zane lost connection: Disconnected
+[03:40:29] [Server thread/INFO]: Zane left the game
+[03:43:14] [Server thread/INFO]: Zane[/127.87.230.6:59707] logged in with entity id 391488 at (-928.6999999880791, 66.0, -1265.4483683158073)
+[03:43:14] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:43:14] [Server thread/INFO]: Zane joined the game
+[03:43:15] [Server thread/INFO]: Channel update: Zane -> default
+[03:43:26] [Server thread/INFO]: Zane drowned
+[03:43:26] [Server thread/INFO]: Created new backpack backup file for Zane with unique ID travelersbackpack.standard_23.07.2026-03.43.26.dat
+[03:43:26] [Server thread/INFO]: Placed Zane's gravestone at (-929, 66, -1266) in minecraft:overworld
+[03:43:30] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> a
+[03:43:59] [Server thread/INFO]: Zane has found their grave at (-929, 66, -1266)
+[03:45:10] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[03:45:10] [Server thread/INFO]: YoshiGamerDS27 left the game
+[03:45:54] [Server thread/INFO]: [Not Secure] <Zane> Pato nos aques piedra de ahi
+[03:46:01] [Server thread/INFO]: [Not Secure] <patitoYOCHI> VALE
+[03:46:11] [Server thread/INFO]: [Not Secure] <Zane> anda por atras xd
+[03:47:22] [Server thread/INFO]: Villager class_1646['Villager'/390405, l='ServerLevel[world]', x=-533.30, y=-31.28, z=-438.30] died, message: 'Villager was squished too much'
+[03:49:07] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:36699] logged in with entity id 396032 at (-902.2703112809511, 65.0, -1361.5043258465817)
+[03:49:07] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:49:07] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[03:49:08] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[03:49:54] [Server thread/INFO]: vodogesito was slain by Zombie
+[03:49:54] [Server thread/INFO]: Placed vodogesito's gravestone at (-863, 60, -1241) in minecraft:overworld
+[03:50:22] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[03:50:22] [Server thread/INFO]: YoshiGamerDS27 left the game
+[03:50:41] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:54055] logged in with entity id 398310 at (-901.8951554080368, 65.0, -1362.275038291471)
+[03:50:41] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[03:50:41] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[03:50:42] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[03:51:41] [Server thread/INFO]: [Not Secure] <Zane> zzzzz
+[03:52:17] [Server thread/INFO]: Felxnord has made the advancement [Minecraft: Trial(s) Edition]
+[03:56:05] [Server thread/INFO]: Felxnord has made the advancement [Under Lock and Key]
+[03:58:37] [Server thread/INFO]: Villager class_1646['Villager'/405040, l='ServerLevel[world]', x=-533.30, y=-31.25, z=-438.30] died, message: 'Villager was squished too much'
+[04:00:22] [Server thread/INFO]: [Not Secure] <Felxnord> dame la polvora patito
+[04:00:29] [Server thread/INFO]: [Not Secure] <Felxnord> dejala en mi casa
+[04:01:29] [Server thread/WARN]: Felxnord moved too quickly! 0.8772258398749955,58.5,12.286437442815668
+[04:03:35] [Server thread/INFO]: vodogesito has found their grave at (-863, 60, -1241)
+[04:04:57] [Server thread/INFO]: [Not Secure] <patitoYOCHI> LISTO
+[04:06:06] [Server thread/INFO]: [Not Secure] <vodogesito> Xd
+[04:09:44] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[04:09:44] [Server thread/INFO]: YoshiGamerDS27 left the game
+[04:11:21] [Server thread/INFO]: patitoYOCHI was slain by Cave Spider
+[04:11:21] [Server thread/INFO]: Placed patitoYOCHI's gravestone at (-497, 25, -1287) in minecraft:overworld
+[04:12:36] [Server thread/INFO]: /127.14.99.99:41047 lost connection: Timed out
+[04:12:44] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:45881] logged in with entity id 425358 at (-772.8030603226152, 4.0, -1435.0115777523795)
+[04:12:44] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[04:12:44] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[04:12:49] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[04:13:55] [Server thread/INFO]: Astol21[/127.230.153.41:44061] logged in with entity id 427376 at (-985.0352879328814, 66.0, -1282.0775264363763)
+[04:13:55] [Server thread/INFO]: Sent config sync packet to 1 player(s)
+[04:13:55] [Server thread/INFO]: Astol21 joined the game
+[04:13:55] [Server thread/INFO]: Channel update: Astol21 -> default
+[04:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:15:04] [Server thread/INFO]: [Not Secure] <Astol21> -520 -440
+[04:15:12] [Server thread/INFO]: [Not Secure] <Astol21> -21
+[04:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04:16:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04:16:58] [Server thread/INFO]: [Not Secure] <Astol21> duerman
+[04:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[04:17:26] [Server thread/INFO]: [Not Secure] <Zane> el de pvz
+[04:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[04:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[04:18:10] [Server thread/INFO]: patitoYOCHI was slain by Spider
+[04:18:10] [Server thread/INFO]: Placed patitoYOCHI's gravestone at (-540, 64, -1299) in minecraft:overworld
+[04:19:37] [Server thread/INFO]: Villager class_1646['Villager'/416334, l='ServerLevel[world]', x=-533.30, y=-31.27, z=-438.30] died, message: 'Villager was squished too much'
+[04:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:20:14] [Server thread/INFO]: Villager class_1646['Villager'/416336, l='ServerLevel[world]', x=-533.30, y=-31.24, z=-438.30] died, message: 'Villager was squished too much'
+[04:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04:21:11] [Server thread/INFO]: patitoYOCHI was slain by Cave Spider
+[04:21:11] [Server thread/INFO]: Placed patitoYOCHI's gravestone at (-497, 25, -1288) in minecraft:overworld
+[04:22:40] [Server thread/WARN]: Felxnord moved too quickly! 31.19999998807907,-11.4375,-4.7406901234624
+[04:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:25:42] [Server thread/INFO]: patitoYOCHI has found their grave at (-497, 25, -1287)
+[04:25:45] [Server thread/INFO]: vodogesito lost connection: Disconnected
+[04:25:45] [Server thread/INFO]: vodogesito left the game
+[04:26:58] [Server thread/INFO]: Villager class_1646['Villager'/416338, l='ServerLevel[world]', x=-533.30, y=-31.26, z=-438.30] died, message: 'Villager was squished too much'
+[04:27:37] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[04:28:19] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XDD
+[04:31:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> hare una pausa del mc, estaba jugando y senti como si me hubieran pegaron un corrientaso en la muñeca
+[04:32:01] [Server thread/INFO]: [Not Secure] <Astol21> q cosaaaaa
+[04:32:03] [Server thread/INFO]: [Not Secure] <Astol21> esa yoshi pues
+[04:32:32] [Server thread/INFO]: YoshiGamerDS27 lost connection: Disconnected
+[04:32:32] [Server thread/INFO]: YoshiGamerDS27 left the game
+[04:32:37] [Server thread/INFO]: Villager class_1646['Villager'/416339, l='ServerLevel[world]', x=-533.30, y=-31.33, z=-438.30] died, message: 'Villager was squished too much'
+[04:33:16] [Server thread/INFO]: Astol21 lost connection: Disconnected
+[04:33:16] [Server thread/INFO]: Astol21 left the game
+[04:39:02] [Server thread/WARN]: Felxnord moved too quickly! -9.276093068926457,0.243240711822736,4.066327386283547
+[04:40:06] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[04:40:06] [Server thread/INFO]: Relaxingame2 left the game
+[04:40:18] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:40:18] [Server thread/INFO]: STOP<--[HERE]
+[04:40:20] [Server thread/INFO]: Stopping the server
+[04:40:21] [Server thread/INFO]: Stopping server
+[04:40:21] [Server thread/INFO]: Saving players
+[04:40:21] [Server thread/INFO]: Felxnord lost connection: Server closed
+[04:40:21] [Server thread/INFO]: Felxnord left the game
+[04:40:21] [Server thread/INFO]: patitoYOCHI lost connection: Server closed
+[04:40:21] [Server thread/INFO]: patitoYOCHI left the game
+[04:40:21] [Server thread/INFO]: Saving worlds
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:40:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:40:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:40:22] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[04:40:22] [Server thread/INFO]: Dispatching unloading event for config visualworkbench-server.toml

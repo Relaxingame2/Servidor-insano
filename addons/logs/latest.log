@@ -1,0 +1,919 @@
+[00:01:39] [Server thread/WARN]: Felxnord moved too quickly! -6.222387644471837,2.0,7.913672027591474
+[00:02:28] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-229, y=-45, z=70}
+[00:02:28] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-227, y=-45, z=71}
+[00:02:28] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=72}
+[00:02:28] [Worker-Main-9/ERROR]: Block-attached entity at invalid position: class_2338{x=-228, y=-45, z=69}
+[00:02:28] [Server thread/WARN]: Felxnord moved too quickly! 1.2340034718986317,1.0752008901189356,-10.116417058645084
+[00:03:11] [Server thread/INFO]: ORDELIK has made the advancement [Ancient Battlefield]
+[00:07:27] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Take Aim]
+[00:12:26] [Server thread/INFO]: [Not Secure] <Felxnord> ya tengo la mochila de calamar
+[00:13:23] [Server thread/INFO]: Felxnord has made the advancement [Custom Backpacks]
+[00:13:27] [Server thread/INFO]: patitoYOCHI (29bb8c6e-ed28-3c5d-b48c-32681cb17768) lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+bettercombat
+biomesoplenty
+biomeswevegone
+comforts
+And 18 more...
+
+Contact the server's administrator for more information!
+[00:13:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:13:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:13:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:13:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> saben como se pueden conseguir los bloques de musgo?
+[00:14:06] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> deja checo
+[00:14:35] [Server thread/INFO]: [Not Secure] <Felxnord> esta rotisima la mochila de calamar
+[00:14:51] [Server thread/INFO]: [Not Secure] <Felxnord> que haces relax?
+[00:15:08] [Server thread/INFO]: [Not Secure] <Felxnord> que andas haciendo Relax LPTM
+[00:15:59] [Server thread/INFO]: patitoYOCHI (29bb8c6e-ed28-3c5d-b48c-32681cb17768) lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+bettercombat
+biomesoplenty
+biomeswevegone
+comforts
+And 18 more...
+
+Contact the server's administrator for more information!
+[00:15:59] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:59] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:59] [Server thread/WARN]: handleDisconnection() called twice
+[00:16:05] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> como 5 stack, eso o un bloque que parezca cespez
+[00:16:08] [Server thread/WARN]: Felxnord moved too quickly! 0.0772346676176312,-10.305736086873559,-0.011713077450849596
+[00:17:14] [Server thread/INFO]: patitoYOCHI (29bb8c6e-ed28-3c5d-b48c-32681cb17768) lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+bettercombat
+biomesoplenty
+biomeswevegone
+comforts
+And 18 more...
+
+Contact the server's administrator for more information!
+[00:17:14] [Server thread/WARN]: handleDisconnection() called twice
+[00:17:14] [Server thread/WARN]: handleDisconnection() called twice
+[00:17:14] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:38] [Server thread/INFO]: [Not Secure] <Felxnord> Relax estas haciendo una granja o que?
+[00:18:43] [Server thread/INFO]: patitoYOCHI (29bb8c6e-ed28-3c5d-b48c-32681cb17768) lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+bettercombat
+biomesoplenty
+biomeswevegone
+comforts
+And 18 more...
+
+Contact the server's administrator for more information!
+[00:18:43] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:43] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:43] [Server thread/WARN]: handleDisconnection() called twice
+[00:19:56] [Server thread/INFO]: ORDELIK lost connection: Disconnected
+[00:19:56] [Server thread/INFO]: ORDELIK left the game
+[00:20:23] [Server thread/WARN]: Felxnord moved too quickly! -7.54519015509959,-2.024424088213692,-6.3243672327603235
+[00:20:38] [Server thread/WARN]: Felxnord moved too quickly! -9.54400367240396,-2.130906499714527,-2.307032673669255
+[00:21:26] [Server thread/INFO]: [Not Secure] <Felxnord> increible no consigo un desierto en esta monda
+[00:21:28] [Server thread/WARN]: Felxnord moved too quickly! -4.197346932397977,1.2491870787446828,-9.0910312045512
+[00:21:45] [Server thread/INFO]: patitoYOCHI (29bb8c6e-ed28-3c5d-b48c-32681cb17768) lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+bettercombat
+biomesoplenty
+biomeswevegone
+comforts
+And 18 more...
+
+Contact the server's administrator for more information!
+[00:21:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:21:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:21:45] [Server thread/WARN]: handleDisconnection() called twice
+[00:25:09] [Worker-Main-7/WARN]: [net.minecraft.class_3499] Serialization errors:
+:
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-3246, y=68, z=-2135}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+  waystones:waystone // net.blay09.mods.waystones.block.entity.WaystoneBlockEntity@class_2338{x=-3246, y=69, z=-2135}: Expected field 'Items' to contain value of type LIST, but got COMPOUND
+[00:25:14] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[00:26:00] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> felx, sabes donde se puede conseguir bloques de musgo?
+[00:26:37] [Server thread/INFO]: [Not Secure] <Felxnord> se me ocurre las lush caves
+[00:26:44] [Server thread/INFO]: [Not Secure] <Felxnord> o que te las vendas el peruano errante
+[00:26:50] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> ahh
+[00:27:05] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> creo qye tendre que buscar entonces
+[00:27:39] [Server thread/INFO]: [Not Secure] <Felxnord> igual luego te puedo ayudar a buscar ya que tengo silk touch
+[00:27:48] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> vale
+[00:27:58] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> estare afk comiendo
+[00:28:40] [Server thread/INFO]: MilimNess[/127.196.159.246:50057] logged in with entity id 160290 at (-1024.5766449119055, 63.0, -1299.1432481210438)
+[00:28:40] [Server thread/INFO]: MilimNess joined the game
+[00:28:40] [Server thread/INFO]: Channel update: MilimNess -> default
+[00:28:43] [Server thread/INFO]: [Not Secure] <Felxnord> encontré la jungla más pequeña de la historia XDDD
+[00:28:48] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[00:28:54] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> hola riley
+[00:29:01] [Server thread/INFO]: [Not Secure] <MilimNess> holiwis
+[00:29:10] [Server thread/INFO]: [Not Secure] <Felxnord> Hola Riley
+[00:29:25] [Server thread/INFO]: [Not Secure] <MilimNess> holiwis
+[00:29:25] [Server thread/INFO]: [Not Secure] <Relaxingame2> felx
+[00:29:33] [Server thread/INFO]: [Not Secure] <Relaxingame2> ando haciendo granja de ender
+[00:29:45] [Server thread/INFO]: [Not Secure] <Felxnord> piola
+[00:29:59] [Server thread/INFO]: [Not Secure] <Felxnord> yo luego voy al nether a ayudar con poner el portal en el techo
+[00:30:04] [Server thread/INFO]: [Not Secure] <MilimNess> :v mi granjitaa
+[00:30:07] [Server thread/INFO]: [Not Secure] <Relaxingame2> ya lo hice
+[00:30:07] [Server thread/INFO]: [Not Secure] <MilimNess> lo perdi todoo
+[00:30:17] [Server thread/INFO]: [Not Secure] <Felxnord> peak
+[00:30:19] [Server thread/INFO]: [Not Secure] <Relaxingame2> puse un tp hacia el techo
+[00:30:25] [Server thread/INFO]: [Not Secure] <MilimNess> por lo menos tengo cama :v
+[00:30:25] [Server thread/INFO]: [Not Secure] <Felxnord> yo encontré una dungeon
+[00:30:50] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> si necesitas ayuda me avisas, ahorita ando comiendo
+[00:30:52] [Server thread/INFO]: ORDELIK[/127.229.250.174:50068] logged in with entity id 163322 at (-959.2149432680299, 63.0, -1384.6445945985686)
+[00:30:52] [Server thread/INFO]: ORDELIK joined the game
+[00:30:52] [Server thread/INFO]: Channel update: ORDELIK -> default
+[00:30:58] [Server thread/WARN]: Felxnord moved too quickly! 6.295466077378478,2.0013359791121417,7.788994809693804
+[00:31:06] [Server thread/INFO]: [Not Secure] <MilimNess> hola muchachoooo
+[00:31:09] [Server thread/INFO]: [Not Secure] <Felxnord> Esta casa de acá es tuya Yoshi?
+[00:31:19] [Server thread/INFO]: [Not Secure] <MilimNess> desde ayer
+[00:31:27] [Server thread/INFO]: [Not Secure] <ORDELIK> quien es mili?
+[00:31:30] [Server thread/INFO]: [Not Secure] <MilimNess> pero como lo perdi todo, desde hoy
+[00:31:31] [Server thread/INFO]: [Not Secure] <Relaxingame2> riley
+[00:31:31] [Server thread/INFO]: [Not Secure] <Felxnord> Riley
+[00:31:38] [Server thread/INFO]: [Not Secure] <MilimNess> Yo soy tu padre
+[00:31:40] [Server thread/INFO]: [Not Secure] <ORDELIK> OOHH
+[00:31:50] [Server thread/INFO]: [Not Secure] <ORDELIK> donde esta?
+[00:31:53] [Server thread/INFO]: [Not Secure] <Felxnord> La mochila del calamar esta god lastima el visión nocturna solo es bajo el agua
+[00:31:54] [Server thread/INFO]: [Not Secure] <MilimNess> aqui
+[00:32:20] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> mi casa esta en proceso aun
+[00:32:31] [Server thread/INFO]: [Not Secure] <Felxnord> está god, ahorita capaz empiezo la mia
+[00:32:35] [Server thread/INFO]: [Not Secure] <MilimNess> yo no tengo casa
+[00:32:42] [Server thread/INFO]: [Not Secure] <MilimNess> ni granja
+[00:32:47] [Server thread/INFO]: [Not Secure] <MilimNess> ni animales
+[00:32:51] [Server thread/INFO]: [Not Secure] <MilimNess> lo perdi todo XD
+[00:32:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo literalmente vivo en el monte :v
+[00:32:53] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/165144, l='ServerLevel[world]', x=-544.65, y=121.37, z=-238.55] died: Headless Warrior was slain by Piglin
+[00:32:54] [Server thread/INFO]: [Not Secure] <Felxnord> traje un arbol de jungla
+[00:33:12] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/165342, l='ServerLevel[world]', x=-543.69, y=121.00, z=-236.65] died: Headless Warrior was slain by Piglin
+[00:33:15] [Server thread/INFO]: [Not Secure] <Felxnord> Como una verdadera Yoshi :V
+[00:33:27] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> asi es po
+[00:33:33] [Server thread/INFO]: [Not Secure] <MilimNess> te voy a buscar?
+[00:34:00] [Server thread/INFO]: Tree reached max size of 100
+[00:34:02] [Server thread/INFO]: Tree reached max size of 100
+[00:34:03] [Server thread/INFO]: Tree reached max size of 100
+[00:34:03] [Server thread/INFO]: Tree reached max size of 100
+[00:34:04] [Server thread/INFO]: Tree reached max size of 100
+[00:34:05] [Server thread/INFO]: Tree reached max size of 100
+[00:34:05] [Server thread/INFO]: Tree reached max size of 100
+[00:34:05] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> toy cerca de la costa
+[00:34:07] [Server thread/INFO]: Tree reached max size of 100
+[00:34:08] [Server thread/INFO]: Tree reached max size of 100
+[00:34:08] [Server thread/INFO]: Tree reached max size of 100
+[00:34:09] [Server thread/INFO]: Tree reached max size of 100
+[00:34:09] [Server thread/INFO]: Tree reached max size of 100
+[00:34:10] [Server thread/INFO]: Tree reached max size of 100
+[00:34:11] [Server thread/INFO]: Tree reached max size of 100
+[00:34:11] [Server thread/INFO]: Tree reached max size of 100
+[00:34:12] [Server thread/INFO]: Tree reached max size of 100
+[00:34:13] [Server thread/INFO]: Tree reached max size of 100
+[00:34:15] [Server thread/INFO]: Tree reached max size of 100
+[00:34:16] [Server thread/INFO]: Tree reached max size of 100
+[00:34:17] [Server thread/INFO]: Tree reached max size of 100
+[00:34:22] [Server thread/INFO]: Tree reached max size of 100
+[00:34:22] [Server thread/INFO]: Tree reached max size of 100
+[00:34:23] [Server thread/INFO]: Tree reached max size of 100
+[00:34:24] [Server thread/INFO]: Tree reached max size of 100
+[00:34:24] [Server thread/INFO]: Tree reached max size of 100
+[00:34:25] [Server thread/INFO]: Tree reached max size of 100
+[00:34:26] [Server thread/INFO]: Tree reached max size of 100
+[00:34:26] [Server thread/INFO]: Tree reached max size of 100
+[00:34:32] [Server thread/INFO]: [Not Secure] <MilimNess> holiwiiis
+[00:34:45] [Server thread/INFO]: [Not Secure] <MilimNess> no te escucho nada
+[00:34:54] [Server thread/INFO]: [Not Secure] <MilimNess> esperame les bajo a los demas
+[00:35:24] [Server thread/INFO]: [Not Secure] <MilimNess> listo
+[00:35:27] [Server thread/INFO]: [Not Secure] <MilimNess> a ver habla
+[00:35:31] [Server thread/INFO]: Tree reached max size of 100
+[00:35:31] [Server thread/INFO]: Tree reached max size of 100
+[00:35:32] [Server thread/INFO]: Tree reached max size of 100
+[00:35:33] [Server thread/INFO]: Tree reached max size of 100
+[00:35:33] [Server thread/INFO]: Tree reached max size of 100
+[00:35:34] [Server thread/INFO]: Tree reached max size of 100
+[00:35:34] [Server thread/INFO]: Tree reached max size of 100
+[00:35:35] [Server thread/INFO]: Tree reached max size of 100
+[00:35:36] [Server thread/INFO]: Tree reached max size of 100
+[00:35:36] [Server thread/INFO]: Tree reached max size of 100
+[00:35:37] [Server thread/INFO]: Tree reached max size of 100
+[00:35:38] [Server thread/INFO]: Tree reached max size of 100
+[00:35:39] [Server thread/INFO]: Tree reached max size of 100
+[00:35:39] [Server thread/INFO]: Tree reached max size of 100
+[00:35:40] [Server thread/INFO]: Tree reached max size of 100
+[00:35:45] [Server thread/INFO]: Tree reached max size of 100
+[00:35:46] [Server thread/INFO]: Tree reached max size of 100
+[00:35:46] [Server thread/INFO]: Tree reached max size of 100
+[00:35:47] [Server thread/INFO]: Tree reached max size of 100
+[00:35:48] [Server thread/INFO]: Tree reached max size of 100
+[00:35:49] [Server thread/INFO]: Tree reached max size of 100
+[00:35:49] [Server thread/INFO]: Tree reached max size of 100
+[00:35:50] [Server thread/INFO]: Tree reached max size of 100
+[00:35:51] [Server thread/INFO]: Tree reached max size of 100
+[00:35:52] [Server thread/INFO]: Tree reached max size of 100
+[00:35:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> alguno de los aldeanos dan tijeras para cortar las hojas?
+[00:35:55] [Server thread/INFO]: Tree reached max size of 100
+[00:35:56] [Server thread/INFO]: Tree reached max size of 100
+[00:35:57] [Server thread/INFO]: Tree reached max size of 100
+[00:35:58] [Server thread/INFO]: Tree reached max size of 100
+[00:35:59] [Server thread/INFO]: Tree reached max size of 100
+[00:35:59] [Server thread/INFO]: Tree reached max size of 100
+[00:36:16] [Server thread/INFO]: [Not Secure] <ORDELIK> uhmm
+[00:36:22] [Server thread/INFO]: [Not Secure] <ORDELIK> dame un momento
+[00:36:24] [Server thread/INFO]: [Not Secure] <ORDELIK> ahora hablo
+[00:36:40] [Server thread/INFO]: [Not Secure] <Felxnord> quien tiene un montonazo de tierra?
+[00:36:50] [Server thread/INFO]: [Not Secure] <ORDELIK> toma riley
+[00:36:51] [Server thread/INFO]: [Not Secure] <MilimNess> yo debo sacar
+[00:36:53] [Server thread/INFO]: [Not Secure] <ORDELIK> dos regalito
+[00:37:01] [Server thread/INFO]: MilimNess has made the advancement [Hidden in the Depths]
+[00:37:04] [Server thread/INFO]: [Not Secure] <MilimNess> ohh gracias
+[00:37:05] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> tengo un stack
+[00:37:10] [Server thread/INFO]: [Not Secure] <ORDELIK> a mi me sobra
+[00:37:48] [Server thread/INFO]: [Not Secure] <MilimNess> como se usa esto?
+[00:37:52] [Server thread/INFO]: [Not Secure] <ORDELIK> ya te exolicaron lo de la mochilla
+[00:37:57] [Server thread/INFO]: [Not Secure] <MilimNess> no
+[00:38:16] [Server thread/INFO]: [Not Secure] <MilimNess> XDD
+[00:38:25] [Server thread/INFO]: [Not Secure] <MilimNess> XDDDDD
+[00:38:39] [Server thread/INFO]: [Not Secure] <MilimNess> xDD
+[00:39:11] [Server thread/INFO]: [Not Secure] <MilimNess> mas o menos
+[00:39:22] [Server thread/INFO]: [Not Secure] <MilimNess> okis creo que si
+[00:39:57] [Server thread/INFO]: [Not Secure] <MilimNess> ahhh
+[00:40:35] [Server thread/INFO]: [Not Secure] <MilimNess> estan todos hablando
+[00:40:41] [Server thread/INFO]: [Not Secure] <MilimNess> no se te entiende nada
+[00:40:45] [Server thread/INFO]: [Not Secure] <MilimNess> XDD
+[00:40:48] [Server thread/INFO]: [Not Secure] <ORDELIK> CARAJO
+[00:40:49] [Server thread/INFO]: [Not Secure] <Relaxingame2> XDDDDD
+[00:40:53] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XDD
+[00:40:58] [Server thread/INFO]: [Not Secure] <MilimNess> pero despues me explicas
+[00:41:01] [Server thread/INFO]: [Not Secure] <MilimNess> tienes casa?
+[00:41:06] [Server thread/INFO]: [Not Secure] <ORDELIK> si tengo casa
+[00:41:13] [Server thread/INFO]: [Not Secure] <MilimNess> ohhh
+[00:41:17] [Server thread/INFO]: [Not Secure] <ORDELIK> estoy viviendo con chilenito
+[00:41:22] [Server thread/INFO]: [Not Secure] <MilimNess> aqui estara mi reino
+[00:41:54] [Server thread/INFO]: [Not Secure] <MilimNess> aqui tenia ampliado
+[00:42:02] [Server thread/INFO]: [Not Secure] <MilimNess> aqui tenia granja de 3 animales diferente
+[00:42:41] [Server thread/INFO]: [Not Secure] <Felxnord> A mimir
+[00:42:52] [Server thread/INFO]: [Not Secure] <MilimNess> a mimiir
+[00:42:58] [Server thread/INFO]: [Not Secure] <ORDELIK> a mirmir
+[00:43:03] [Server thread/INFO]: [Not Secure] <MilimNess> no se puede
+[00:43:19] [Server thread/INFO]: [Not Secure] <ORDELIK> desde cuando entraste al server?
+[00:43:26] [Server thread/INFO]: [Not Secure] <MilimNess> desde ayer
+[00:43:30] [Server thread/INFO]: [Not Secure] <MilimNess> pero lo perdi todo
+[00:43:31] [Server thread/INFO]: [Not Secure] <ORDELIK> la madre
+[00:43:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> YA TE LO DIJIERON ORDELIK
+[00:43:37] [Server thread/INFO]: [Not Secure] <ORDELIK> y ya tenes diamante
+[00:43:43] [Server thread/INFO]: [Not Secure] <ORDELIK> no lei relax
+[00:43:46] [Server thread/INFO]: [Not Secure] <MilimNess> me lo regalaron
+[00:43:46] [Server thread/INFO]: [Not Secure] <Relaxingame2> mmm
+[00:43:52] [Server thread/INFO]: [Not Secure] <ORDELIK> ESTOY DISOCIADO MIERDA
+[00:44:00] [Server thread/INFO]: [Not Secure] <Relaxingame2> xd
+[00:44:01] [Server thread/INFO]: [Not Secure] <ORDELIK> y con dolor de muela
+[00:44:12] [Server thread/INFO]: [Not Secure] <MilimNess> no importa yo te vuelvo a hablar si me preguntas
+[00:44:21] [Server thread/INFO]: [Not Secure] <ORDELIK> a
+[00:44:48] [Server thread/INFO]: [Not Secure] <Relaxingame2> alguien tiene bambu?
+[00:44:55] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> nop
+[00:44:56] [Server thread/INFO]: [Not Secure] <MilimNess> la pala buena no se agota
+[00:45:09] [Server thread/INFO]: [Not Secure] <ORDELIK> pues no mija es de diamante
+[00:45:12] [Server thread/INFO]: [Not Secure] <ORDELIK> y encantada
+[00:45:22] [Server thread/INFO]: [Not Secure] <Felxnord> relax ven yo tengo bamboo
+[00:45:34] [Server thread/INFO]: [Not Secure] <Felxnord> tengo 10 te sirve?
+[00:45:35] [Server thread/INFO]: [Not Secure] <ORDELIK> yo te doy mi bambu relax
+[00:45:46] [Server thread/INFO]: [Not Secure] <Relaxingame2> si ferlx
+[00:45:56] [Server thread/INFO]: [Not Secure] <Felxnord> denada
+[00:45:57] [Server thread/INFO]: [Not Secure] <MilimNess> voy a necesitar zanahorias
+[00:46:20] [Server thread/INFO]: [Not Secure] <ORDELIK> yo te doy ahora zanahorias
+[00:49:55] [Server thread/INFO]: [Not Secure] <MilimNess> gracias
+[00:50:16] [Server thread/INFO]: [Not Secure] <MilimNess> ohh tendre papitas
+[00:50:24] [Server thread/INFO]: [Not Secure] <ORDELIK> tu dime lo que nesecites yo te ayudo
+[00:50:30] [Server thread/INFO]: [Not Secure] <ORDELIK> estoy algo aburriditop
+[00:50:35] [Server thread/INFO]: [Not Secure] <MilimNess> ya tengo medio aplanado
+[00:50:41] [Server thread/INFO]: [Not Secure] <ORDELIK> cris no puso los mods que le pedi
+[00:50:51] [Server thread/INFO]: [Not Secure] <MilimNess> necesito quitar todo lo que no sea tierra
+[00:51:24] [Server thread/INFO]: [Not Secure] <ORDELIK> mira riley
+[00:51:31] [Server thread/INFO]: [Not Secure] <ORDELIK> COMO GOKI
+[00:51:34] [Server thread/INFO]: [Not Secure] <ORDELIK> GOKU
+[00:51:37] [Server thread/INFO]: [Not Secure] <MilimNess> ohh?
+[00:51:38] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> alguien tiene dos de hierro?
+[00:51:58] [Server thread/INFO]: [Not Secure] <MilimNess> a donde te fuiste?
+[00:52:06] [Server thread/INFO]: [Not Secure] <ORDELIK> a mi base
+[00:52:11] [Server thread/INFO]: [Not Secure] <MilimNess> ohhh
+[00:53:05] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[00:53:05] [Server thread/INFO]: Relaxingame2 left the game
+[00:53:24] [Server thread/INFO]: [Not Secure] <MilimNess> ah dormiriii
+[00:54:42] [Server thread/INFO]: [Not Secure] <MilimNess> me asustaste
+[00:54:45] [Server thread/INFO]: [Not Secure] <ORDELIK> XD
+[00:54:51] [Server thread/INFO]: [Not Secure] <MilimNess> pense que era de esos esqueletos arriba de algo
+[00:55:21] [Server thread/INFO]: Relaxingame2[/127.201.127.108:50154] logged in with entity id 192950 at (-533.9603417202476, -21.0, -440.91131745330296)
+[00:55:21] [Server thread/INFO]: Relaxingame2 joined the game
+[00:55:22] [Server thread/INFO]: Channel update: Relaxingame2 -> default
+[00:58:11] [Server thread/INFO]: [Not Secure] <MilimNess> gracias ordelik
+[00:58:31] [Server thread/INFO]: [Not Secure] <ORDELIK> esto lo hago de cariño
+[00:58:32] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> felxnord, tienes hierro?
+[01:00:10] [Server thread/INFO]: [Not Secure] <ORDELIK> alli tienes
+[01:00:30] [Server thread/INFO]: [Not Secure] <ORDELIK> listo ya te ayude
+[01:00:37] [Server thread/INFO]: [Not Secure] <MilimNess> muchas gracias
+[01:01:00] [Server thread/INFO]: [Not Secure] <MilimNess> ahora solo necesito los animales y nada mas
+[01:01:09] [Server thread/INFO]: [Not Secure] <MilimNess> y ojala que no se reinicie el server XD
+[01:01:09] [Server thread/INFO]: [Not Secure] <ORDELIK> estan por alli
+[01:01:18] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> nah, ya no creo
+[01:01:24] [Server thread/INFO]: [Not Secure] <MilimNess> voy por arbolitos
+[01:01:58] [Server thread/INFO]: [Not Secure] <ORDELIK> XD
+[01:01:59] [Server thread/INFO]: [Not Secure] <MilimNess> no mates a los chanchitos por fii
+[01:02:11] [Server thread/INFO]: [Not Secure] <ORDELIK> es que me miro feo
+[01:04:27] [Server thread/INFO]: [Not Secure] <MilimNess> a mimiiir
+[01:04:36] [Server thread/INFO]: Named entity class_1559['Enrique'/203592, l='ServerLevel[world]', x=-648.51, y=200.25, z=-244.50] died: Enrique was slain by Enderman
+[01:06:18] [Server thread/INFO]: [Not Secure] <ORDELIK> en que mas te ayudo pues?
+[01:06:38] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/207137, l='ServerLevel[world]', x=-602.78, y=171.00, z=-167.57] died: Headless Warrior was slain by Piglin
+[01:09:21] [Server thread/INFO]: MilimNess has made the advancement [The Parrots and the Bats]
+[01:09:51] [Server thread/INFO]: [Not Secure] <ORDELIK> asesina matastes a una oveja
+[01:10:01] [Server thread/INFO]: [Not Secure] <MilimNess> justo esa me sobrava
+[01:10:07] [Server thread/INFO]: [Not Secure] <ORDELIK> uhmm
+[01:10:12] [Server thread/INFO]: [Not Secure] <ORDELIK> mas sangrienta
+[01:10:20] [Server thread/INFO]: [Not Secure] <ORDELIK> esa vaca va como una cola
+[01:10:23] [Server thread/INFO]: [Not Secure] <ORDELIK> XD
+[01:10:52] [Server thread/INFO]: [Not Secure] <MilimNess> ya tengo mis 3 animales
+[01:10:52] [Server thread/INFO]: [Not Secure] <ORDELIK> pero ponga la valla bien mijita
+[01:11:25] [Server thread/INFO]: [Not Secure] <ORDELIK> desforestadora
+[01:11:46] [Server thread/INFO]: [Not Secure] <Felxnord> portal, minecart, dispenser y no se que más
+[01:12:02] [Server thread/INFO]: [Not Secure] <Felxnord> tengo
+[01:12:11] [Server thread/INFO]: [Not Secure] <Felxnord> pero crudo, medio stack
+[01:12:55] [Server thread/INFO]: [Not Secure] <ORDELIK> dale pues chambea riley
+[01:13:00] [Server thread/INFO]: [Not Secure] <ORDELIK> alante atras alante atras
+[01:13:18] [Server thread/INFO]: [Not Secure] <ORDELIK> A CHAMBEAR
+[01:15:33] [Server thread/INFO]: [Not Secure] <MilimNess> a dormiiir
+[01:15:54] [Server thread/INFO]: [Not Secure] <ORDELIK> una litera
+[01:15:56] [Server thread/INFO]: [Not Secure] <MilimNess> no estoy aconstumbrada a pelear con zombies
+[01:16:00] [Server thread/INFO]: [Not Secure] <ORDELIK> como se diga
+[01:16:03] [Server thread/INFO]: [Not Secure] <MilimNess> menos con lag
+[01:16:04] [Server thread/INFO]: [Not Secure] <MilimNess> asdas
+[01:16:04] [Server thread/INFO]: [Not Secure] <ORDELIK> te da miedo?
+[01:16:17] [Server thread/INFO]: [Not Secure] <MilimNess> no soy de pvp mele
+[01:16:23] [Server thread/INFO]: [Not Secure] <MilimNess> o es con arma a distancia
+[01:16:34] [Server thread/INFO]: [Not Secure] <ORDELIK> ah?
+[01:16:46] [Server thread/INFO]: [Not Secure] <MilimNess> osea no soy de usar espada pero si el arco
+[01:16:55] [Server thread/INFO]: [Not Secure] <ORDELIK> yo soy muy de melea aunque si domino de todo
+[01:17:03] [Server thread/INFO]: [Not Secure] <MilimNess> miraaa
+[01:17:07] [Server thread/INFO]: [Not Secure] <ORDELIK> pvp de mazo de arco de tridente de lanza
+[01:17:15] [Server thread/INFO]: [Not Secure] <MilimNess> ven
+[01:17:30] [Server thread/INFO]: [Not Secure] <MilimNess> zona de corderitos
+[01:17:39] [Server thread/INFO]: [Not Secure] <MilimNess> zona de cerditos
+[01:17:47] [Server thread/INFO]: [Not Secure] <MilimNess> zona de vaquitas muu
+[01:17:48] [Server thread/INFO]: [Not Secure] <ORDELIK> zona de vaquitas
+[01:17:55] [Server thread/INFO]: [Not Secure] <ORDELIK> la vaca lola
+[01:17:58] [Server thread/INFO]: [Not Secure] <ORDELIK> la vaca lola
+[01:18:01] [Server thread/INFO]: [Not Secure] <MilimNess> XD
+[01:18:38] [Server thread/INFO]: [Not Secure] <ORDELIK> y ahora que?
+[01:18:43] [Server thread/INFO]: [Not Secure] <ORDELIK> :3?
+[01:18:49] [Server thread/INFO]: [Not Secure] <MilimNess> ya tenemos alimento asegurado
+[01:19:21] [Server thread/INFO]: [Not Secure] <ORDELIK> veni
+[01:19:28] [Server thread/INFO]: [Not Secure] <ORDELIK> te voy a enseñar algo
+[01:20:58] [Server thread/INFO]: [Not Secure] <ORDELIK> ta bonito
+[01:21:46] [Server thread/INFO]: [Not Secure] <MilimNess> XD
+[01:21:54] [Server thread/INFO]: [Not Secure] <ORDELIK> mira
+[01:21:57] [Server thread/INFO]: [Not Secure] <ORDELIK> ahora si
+[01:22:02] [Server thread/INFO]: [Not Secure] <ORDELIK> situ pones esto aqui
+[01:22:11] [Server thread/INFO]: [Not Secure] <ORDELIK> tu vas a poder pasar pero los animales no
+[01:22:20] [Server thread/INFO]: [Not Secure] <MilimNess> ohhh
+[01:22:30] [Server thread/INFO]: [Not Secure] <MilimNess> y yo tenia la doble entrada
+[01:22:45] [Server thread/INFO]: [Not Secure] <ORDELIK> pero bueno me imagino que queres una lana rosa
+[01:22:49] [Server thread/INFO]: [Not Secure] <ORDELIK> o no?
+[01:22:51] [Server thread/INFO]: [Not Secure] <MilimNess> sipi
+[01:22:59] [Server thread/INFO]: [Not Secure] <ORDELIK> lo sabia
+[01:25:10] [Server thread/INFO]: [Not Secure] <MilimNess> XDD
+[01:25:23] [Server thread/INFO]: MilimNess has made the advancement [Dye your backpack!]
+[01:25:48] [Server thread/INFO]: [Not Secure] <ORDELIK> te creaste una mochila?
+[01:25:59] [Server thread/INFO]: [Not Secure] <MilimNess> nop
+[01:26:09] [Server thread/INFO]: [Not Secure] <MilimNess> solo le saque el tinte a una flo
+[01:26:13] [Server thread/INFO]: [Not Secure] <MilimNess> a dooormiiir
+[01:26:39] [Server thread/INFO]: No return portal found
+[01:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4878ms or 97 ticks behind
+[01:26:44] [Server thread/WARN]: Felxnord moved too quickly! 10.17666752273476,-0.12129684053920187,-0.3465586685947528
+[01:27:35] [Server thread/INFO]: [Not Secure] <MilimNess> ahora a seguir aplatando un poco mas
+[01:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8198ms or 163 ticks behind
+[01:27:50] [Server thread/WARN]: ORDELIK moved too quickly! -9.9706977329638,-1.3549288465816858,-0.5683089594651847
+[01:27:50] [Server thread/WARN]: MilimNess moved too quickly! 0.21189696876353992,0.0,-10.112491044175385
+[01:28:57] [Server thread/INFO]: [Not Secure] <ORDELIK> PUEDO MATAR A LA NEGRA?
+[01:29:08] [Server thread/INFO]: [Not Secure] <MilimNess> nuuu
+[01:29:14] [Server thread/INFO]: [Not Secure] <ORDELIK> pero polque?
+[01:29:15] [Server thread/INFO]: [Not Secure] <MilimNess> y mi obeja roja? :v
+[01:29:20] [Server thread/INFO]: [Not Secure] <ORDELIK> no esta
+[01:30:20] [Server thread/INFO]: [Not Secure] <MilimNess> ya tengo oveja rosada
+[01:30:40] [Server thread/INFO]: [Not Secure] <MilimNess> nuu perdi el blancooo
+[01:30:57] [Server thread/INFO]: [Not Secure] <ORDELIK> contenta?
+[01:31:07] [Server thread/INFO]: [Not Secure] <ORDELIK> ya tienes blanco rojo y rosa
+[01:31:14] [Server thread/INFO]: [Not Secure] <MilimNess> si pero tambien necesito blanco
+[01:32:14] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[01:32:28] [Server thread/INFO]: [Not Secure] <MilimNess> :3
+[01:32:35] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[01:32:35] [Server thread/INFO]: YoshiGamerDS27 left the game
+[01:33:31] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:50312] logged in with entity id 239575 at (-918.9932905832791, 63.4375, -1362.1923696593958)
+[01:33:31] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[01:33:34] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[01:33:49] [Server thread/INFO]: [Not Secure] <MilimNess> aqui construire mi imperio
+[01:34:14] [Server thread/INFO]: [Not Secure] <ORDELIK> mira de un backflip voy a subir 0.5 bloques
+[01:34:24] [Server thread/INFO]: [Not Secure] <MilimNess> a ver
+[01:34:32] [Server thread/INFO]: [Not Secure] <MilimNess> XD
+[01:35:29] [Server thread/INFO]: [Not Secure] <ORDELIK> bueno como ya me voy a dormir
+[01:35:34] [Server thread/INFO]: [Not Secure] <MilimNess> wenuu
+[01:35:37] [Server thread/INFO]: [Not Secure] <MilimNess> wenas noches
+[01:35:40] [Server thread/INFO]: [Not Secure] <ORDELIK> hasta mañana
+[01:35:41] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> chao ordelik
+[01:35:42] [Server thread/INFO]: [Not Secure] <MilimNess> XDDD
+[01:35:45] [Server thread/INFO]: [Not Secure] <ORDELIK> XD
+[01:35:50] [Server thread/INFO]: [Not Secure] <MilimNess> ordelik bailando tuerking
+[01:35:54] [Server thread/INFO]: [Not Secure] <ORDELIK> el cris me hizo eso primero
+[01:35:59] [Server thread/INFO]: [Not Secure] <ORDELIK> EL PERREO INSANO
+[01:36:09] [Server thread/INFO]: [Not Secure] <MilimNess> XDD
+[01:36:19] [Server thread/INFO]: [Not Secure] <ORDELIK> mira como el papa de relaz
+[01:36:25] [Server thread/INFO]: [Not Secure] <MilimNess> xd
+[01:36:34] [Server thread/INFO]: ORDELIK lost connection: Disconnected
+[01:36:34] [Server thread/INFO]: ORDELIK left the game
+[01:37:00] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> felxnord tas ahi?
+[01:37:38] [Server thread/INFO]: [Not Secure] <Felxnord> Si
+[01:37:49] [Server thread/INFO]: [Not Secure] <Felxnord> ando construyendo mi casa
+[01:38:07] [Server thread/INFO]: [Not Secure] <MilimNess> yo recin voy a empezar a construir mi casa
+[01:38:20] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> soy yo o pareciera que estuvieran haciendo sebo ese par :v?
+[01:38:40] [Server thread/INFO]: Tree reached max size of 100
+[01:38:59] [Server thread/INFO]: Tree reached max size of 100
+[01:39:07] [Server thread/INFO]: Tree reached max size of 100
+[01:39:07] [Server thread/INFO]: Tree reached max size of 100
+[01:39:08] [Server thread/INFO]: Tree reached max size of 100
+[01:39:08] [Server thread/INFO]: Tree reached max size of 100
+[01:39:09] [Server thread/INFO]: Tree reached max size of 100
+[01:39:10] [Server thread/INFO]: Tree reached max size of 100
+[01:39:10] [Server thread/INFO]: Tree reached max size of 100
+[01:39:11] [Server thread/INFO]: Tree reached max size of 100
+[01:39:11] [Server thread/INFO]: Tree reached max size of 100
+[01:39:13] [Server thread/INFO]: Tree reached max size of 100
+[01:39:14] [Server thread/INFO]: Tree reached max size of 100
+[01:39:14] [Server thread/INFO]: Tree reached max size of 100
+[01:39:15] [Server thread/INFO]: Tree reached max size of 100
+[01:39:16] [Server thread/INFO]: Tree reached max size of 100
+[01:39:17] [Server thread/INFO]: Tree reached max size of 100
+[01:39:18] [Server thread/INFO]: Tree reached max size of 100
+[01:39:19] [Server thread/INFO]: Tree reached max size of 100
+[01:39:19] [Server thread/INFO]: Tree reached max size of 100
+[01:39:21] [Server thread/INFO]: Tree reached max size of 100
+[01:39:22] [Server thread/INFO]: Tree reached max size of 100
+[01:39:22] [Server thread/INFO]: Tree reached max size of 100
+[01:39:23] [Server thread/INFO]: Tree reached max size of 100
+[01:39:25] [Server thread/INFO]: Tree reached max size of 100
+[01:39:26] [Server thread/INFO]: Tree reached max size of 100
+[01:39:26] [Server thread/INFO]: Tree reached max size of 100
+[01:39:30] [Server thread/INFO]: Tree reached max size of 100
+[01:39:33] [Server thread/INFO]: Tree reached max size of 100
+[01:39:34] [Server thread/INFO]: Tree reached max size of 100
+[01:39:35] [Server thread/INFO]: Tree reached max size of 100
+[01:39:35] [Server thread/INFO]: Tree reached max size of 100
+[01:39:36] [Server thread/INFO]: Tree reached max size of 100
+[01:39:37] [Server thread/INFO]: Tree reached max size of 100
+[01:39:37] [Server thread/INFO]: Tree reached max size of 100
+[01:39:38] [Server thread/INFO]: Tree reached max size of 100
+[01:39:39] [Server thread/INFO]: Tree reached max size of 100
+[01:39:39] [Server thread/INFO]: Tree reached max size of 100
+[01:39:40] [Server thread/INFO]: Tree reached max size of 100
+[01:39:40] [Server thread/INFO]: Tree reached max size of 100
+[01:39:41] [Server thread/INFO]: Tree reached max size of 100
+[01:39:42] [Server thread/INFO]: Tree reached max size of 100
+[01:39:43] [Server thread/INFO]: Tree reached max size of 100
+[01:39:43] [Server thread/INFO]: Tree reached max size of 100
+[01:39:44] [Server thread/INFO]: Tree reached max size of 100
+[01:39:44] [Server thread/INFO]: Tree reached max size of 100
+[01:39:46] [Server thread/INFO]: Tree reached max size of 100
+[01:39:47] [Server thread/INFO]: Tree reached max size of 100
+[01:39:48] [Server thread/INFO]: Tree reached max size of 100
+[01:39:49] [Server thread/INFO]: Tree reached max size of 100
+[01:39:50] [Server thread/INFO]: Tree reached max size of 100
+[01:40:04] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> alguien tiene brote de palma?
+[01:40:16] [Server thread/INFO]: [Not Secure] <MilimNess> yo tengo palma pero de la mano
+[01:40:29] [Server thread/INFO]: [Not Secure] <MilimNess> XDDDDDDDDDD
+[01:40:32] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> esa riley XD
+[01:40:47] [Server thread/INFO]: [Not Secure] <MilimNess> hoy ando chistosa
+[01:40:57] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> tendre que encontrar una playa entons
+[01:41:06] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> me di cuenta po
+[01:44:07] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/253149, l='ServerLevel[world]', x=-613.77, y=178.00, z=-173.96] died: Headless Warrior was slain by Piglin
+[01:44:14] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/253253, l='ServerLevel[world]', x=-598.44, y=178.00, z=-166.23] died: Headless Warrior was shot by Piglin
+[01:45:22] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/253743, l='ServerLevel[world]', x=-597.58, y=180.54, z=-163.54] died: Headless Warrior was slain by Piglin
+[01:45:30] [Server thread/INFO]: Tronks94[/127.66.237.137:50356] logged in with entity id 255036 at (-999.5075794594949, 68.0, -1328.2215833194812)
+[01:45:30] [Server thread/INFO]: Tronks94 joined the game
+[01:45:32] [Server thread/INFO]: Channel update: Tronks94 -> default
+[01:45:38] [Server thread/INFO]: [Not Secure] <Relaxingame2> hola tronks
+[01:45:48] [Server thread/INFO]: Felxnord lost connection: Disconnected
+[01:45:48] [Server thread/INFO]: Felxnord left the game
+[01:46:45] [Server thread/INFO]: [Not Secure] <Tronks94> ok el downgrade esta demasiado cabron
+[01:46:56] [Server thread/INFO]: [Not Secure] <Tronks94> perdí TODA la granja de hierro
+[01:47:27] [Server thread/INFO]: Felxnord (ce0adaab-9484-33ab-b6c4-b5a1ba2ebc44) lost connection: Timed out
+[01:48:02] [Server thread/INFO]: Felxnord[/127.45.126.2:50364] logged in with entity id 258016 at (-1000.4458429806656, 68.5625, -1325.699999988079)
+[01:48:02] [Server thread/INFO]: Felxnord joined the game
+[01:48:03] [Server thread/INFO]: Channel update: Felxnord -> default
+[01:48:22] [Server thread/INFO]: [Not Secure] <Felxnord> A mimir
+[01:49:04] [Server thread/INFO]: [Not Secure] <MilimNess> voy a mi otro game
+[01:49:06] [Server thread/INFO]: [Not Secure] <MilimNess> :3
+[01:49:17] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> chaop riley
+[01:49:21] [Server thread/INFO]: [Not Secure] <MilimNess> nos vemos
+[01:49:25] [Server thread/INFO]: [Not Secure] <Tronks94> adios rileysita
+[01:49:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> adio riley
+[01:49:36] [Server thread/INFO]: [Not Secure] <MilimNess> alcanse a reconstruir lo que habia hecho antes
+[01:49:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> god
+[01:49:53] [Server thread/INFO]: [Not Secure] <Tronks94> la granja de hierro bro :(
+[01:50:20] [Server thread/INFO]: MilimNess lost connection: Disconnected
+[01:50:20] [Server thread/INFO]: MilimNess left the game
+[01:50:22] [Server thread/INFO]: [Not Secure] <Relaxingame2> tronks la granja fue un sueño
+[01:50:46] [Server thread/INFO]: Named entity class_1639['Headless Warrior'/260366, l='ServerLevel[world]', x=-604.35, y=174.00, z=-164.50] died: Headless Warrior was shot by Piglin
+[01:50:59] [Server thread/INFO]: [Not Secure] <Tronks94> relax perdiste las varas?
+[01:51:43] [Server thread/INFO]: [Not Secure] <Relaxingame2> recupere todo en menos de una hora
+[01:51:56] [Server thread/INFO]: [Not Secure] <Relaxingame2> y me complace en anunciar que hay granja de endermans
+[01:52:02] [Server thread/INFO]: [Not Secure] <Tronks94> ?
+[01:52:09] [Server thread/INFO]: [Not Secure] <Tronks94> maje dame varitas tons
+[01:52:16] [Server thread/INFO]: [Not Secure] <Tronks94> porfa
+[01:58:43] [Server thread/INFO]: No return portal found
+[01:58:43] [Server thread/INFO]: Tronks94 has made the advancement [Incendium]
+[01:58:43] [Server thread/INFO]: Tronks94 has made the advancement [We Need to Go Deeper]
+[01:59:05] [Server thread/INFO]: Tronks94 has made the advancement [Hidden in the Depths]
+[01:59:11] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Safe Haven]
+[02:00:00] [Server thread/INFO]: [Not Secure] <Felxnord> Duerman Carajo :V
+[02:00:03] [Server thread/INFO]: [Not Secure] <Tronks94> peren no duerman
+[02:00:12] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo ni puedo
+[02:02:27] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> me avisan cuando se pueda
+[02:02:47] [Server thread/INFO]: [Not Secure] <Tronks94> wi tienen ojos de araña duermo de una si me los dan
+[02:03:08] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> no tengo
+[02:05:04] [Server thread/INFO]: [Not Secure] <Relaxingame2> tronks
+[02:05:07] [Server thread/INFO]: [Not Secure] <Relaxingame2> como estas?
+[02:05:13] [Server thread/INFO]: [Not Secure] <Tronks94> mal
+[02:05:20] [Server thread/INFO]: [Not Secure] <Relaxingame2> porque?
+[02:05:21] [Server thread/INFO]: No return portal found
+[02:05:21] [Server thread/INFO]: Felxnord has made the advancement [Incendium]
+[02:05:21] [Server thread/INFO]: Felxnord has made the advancement [We Need to Go Deeper]
+[02:05:41] [Server thread/INFO]: [Not Secure] <Tronks94> porque tenia la granja practicamente acabada y la destruyeron
+[02:05:53] [Server thread/INFO]: [Not Secure] <Relaxingame2> masbien no le destruyeron
+[02:06:06] [Server thread/INFO]: [Not Secure] <Relaxingame2> volvieron el tiempo como si no ubiese existido
+[02:06:09] [Server thread/INFO]: [Not Secure] <Felxnord> No la destruyeron, fue cris que no guardó un backup
+[02:06:15] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> a que hora la habias hecho?
+[02:06:27] [Server thread/INFO]: [Not Secure] <Felxnord> la habia hecho en la tarde tipo 3 pm
+[02:06:30] [Server thread/INFO]: [Not Secure] <Tronks94> ya tenia casi toda la granja
+[02:06:42] [Server thread/INFO]: [Not Secure] <Tronks94> YO HIZE UN BACK UP
+[02:06:45] [Server thread/INFO]: [Not Secure] <Tronks94> YO
+[02:06:49] [Server thread/INFO]: [Not Secure] <Tronks94> CUANDO HABIA GRANJA
+[02:06:53] [Server thread/INFO]: [Not Secure] <Relaxingame2> ya no tronks
+[02:07:03] [Server thread/INFO]: [Not Secure] <Relaxingame2> ya hice mas que en el mundo anterior
+[02:07:12] [Server thread/INFO]: [Not Secure] <Relaxingame2> si quieres te ayudo
+[02:07:16] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> recuerdo que criss habia dicho que tenia un backup como de las 3 pm
+[02:07:49] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> sera ver si lo pone
+[02:08:00] [Server thread/INFO]: [Not Secure] <Relaxingame2> ya paque
+[02:08:07] [Server thread/INFO]: [Not Secure] <Relaxingame2> mejor con este xd
+[02:08:14] [Server thread/INFO]: Felxnord lost connection: Disconnected
+[02:08:14] [Server thread/INFO]: Felxnord left the game
+[02:08:18] [Server thread/INFO]: [Not Secure] <Relaxingame2> y si quieres te ayudo tronks con la granja
+[02:08:23] [Server thread/INFO]: [Not Secure] <Relaxingame2> y a todos
+[02:08:36] [Server thread/INFO]: [Not Secure] <Relaxingame2> tengo para ayudarlos si necesitan
+[02:08:39] [Server thread/INFO]: [Not Secure] <Relaxingame2> :p
+[02:08:51] [Server thread/INFO]: [Not Secure] <Tronks94> relax me ayudarias si tuvieras ojos de araña
+[02:09:00] [Server thread/INFO]: [Not Secure] <Relaxingame2> si tengo
+[02:09:05] [Server thread/INFO]: [Not Secure] <Tronks94> dame 2
+[02:09:13] [Server thread/INFO]: Felxnord[/127.45.126.2:50482] logged in with entity id 284997 at (-993.4930662657797, 71.5, -1318.3276101167783)
+[02:09:13] [Server thread/INFO]: Felxnord joined the game
+[02:09:13] [Server thread/INFO]: Channel update: Felxnord -> default
+[02:10:03] [Server thread/INFO]: [Not Secure] <Tronks94> lana bro ayudame a conseguir lana
+[02:12:12] [Server thread/INFO]: [Not Secure] <Tronks94> necesito mucha mas lana que esa xd
+[02:12:22] [Server thread/INFO]: [Not Secure] <Relaxingame2> pero agradece
+[02:12:29] [Server thread/INFO]: [Not Secure] <Tronks94> gracias maje
+[02:12:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> denada
+[02:12:38] [Server thread/INFO]: [Not Secure] <Tronks94> ahora me das 2 de hierro :3
+[02:12:42] [Server thread/INFO]: [Not Secure] <Relaxingame2> oki
+[02:12:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo tengo igual si necesitas po
+[02:13:09] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Isn't It Iron Pick]
+[02:13:13] [Server thread/INFO]: [Not Secure] <Tronks94> no yoshi yo no le pido a losque no tienen
+[02:13:31] [Server thread/INFO]: [Not Secure] <Tronks94> tu úsalo en ti
+[02:18:09] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> encontre unos libros encantados
+[02:18:20] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> o como se llamen :v
+[02:18:27] [Server thread/INFO]: [Not Secure] <Tronks94> onde?
+[02:20:17] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> en una estructura en un bosque de cerezo
+[02:23:51] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[02:23:51] [Server thread/INFO]: YoshiGamerDS27 left the game
+[02:24:47] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:50518] logged in with entity id 305714 at (-858.4621033292511, 67.76636799395752, -2334.663021738443)
+[02:24:47] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[02:24:53] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[02:29:36] [Server thread/INFO]: [Not Secure] <Relaxingame2> tronks
+[02:29:39] [Server thread/INFO]: [Not Secure] <Relaxingame2> ya estoy
+[02:29:48] [Server thread/INFO]: [Not Secure] <Tronks94> ?
+[02:29:52] [Server thread/INFO]: [Not Secure] <Relaxingame2> andaba ayudando a patito a instalar los mods
+[02:30:14] [Server thread/INFO]: [Not Secure] <Tronks94> si puedes pasame harta netherack
+[02:30:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> como te explico que me la gaste en la granja
+[02:30:53] [Server thread/INFO]: [Not Secure] <Tronks94> ya lo consigo yo trata de conseguir mas lana
+[02:30:59] [Server thread/INFO]: [Not Secure] <Tronks94> necesitamos 24 camas
+[02:31:19] [Server thread/INFO]: [Not Secure] <Tronks94> osea 72 de lana
+[02:32:13] [Server thread/INFO]: Tronks94 has made the advancement [I've found the better one!]
+[02:32:52] [Server thread/INFO]: Relaxingame2 has made the advancement [Voluntary Exile]
+[02:33:28] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> me encontre un arbol gigante
+[02:33:45] [Server thread/INFO]: [Not Secure] <Tronks94> soy el hombre que araña
+[02:33:54] [Server thread/INFO]: [Not Secure] <Relaxingame2> en efecto
+[02:33:55] [Server thread/INFO]: [Not Secure] <Felxnord> Relax antes que resetearan habia conseguido una de IV en una chamba del desafio pero está cerca del spawn
+[02:33:57] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> creo que tiene manzanas doradas o esa parece
+[02:34:33] [Server thread/INFO]: [Not Secure] <Relaxingame2> prote o que?
+[02:35:07] [Server thread/INFO]: Tree reached max size of 100
+[02:35:09] [Server thread/INFO]: Tree reached max size of 100
+[02:37:24] [Server thread/INFO]: [Not Secure] <Felxnord> una poronga rellenar para que no spawneen mobs
+[02:37:35] [Server thread/INFO]: [Not Secure] <Relaxingame2> xd
+[02:39:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[02:39:15] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> pueden creer que explore mucho y no consegui ni un solo arbol de palmera
+[02:39:29] [Server thread/INFO]: [Not Secure] <Felxnord> una poronga la cantidad de materiales XDDDD
+[02:39:34] [Server thread/INFO]: [Not Secure] <Tronks94> literalmente en el terreno de yoshi hay uno
+[02:39:34] [Server thread/INFO]: [Not Secure] <Relaxingame2> pero si hay en la base palmera .-.
+[02:40:07] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> el que tenia ya lo tale po
+[02:40:19] [Server thread/INFO]: [Not Secure] <Relaxingame2> aca hay otra
+[02:40:41] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[02:40:41] [Server thread/INFO]: Relaxingame2 left the game
+[02:41:24] [Server thread/INFO]: Relaxingame2[/127.201.127.108:50573] logged in with entity id 331531 at (-998.3782966804739, 71.1875, -1325.9096490511192)
+[02:41:24] [Server thread/INFO]: Relaxingame2 joined the game
+[02:41:25] [Server thread/INFO]: Channel update: Relaxingame2 -> default
+[02:41:51] [Server thread/INFO]: patitoYOCHI[/127.180.187.102:50577] logged in with entity id 332451 at (-21.811799427115687, 70.0, 48.9150500765694)
+[02:41:51] [Server thread/INFO]: patitoYOCHI joined the game
+[02:41:51] [Server thread/INFO]: Channel update: patitoYOCHI -> default
+[02:42:09] [Server thread/INFO]: [Not Secure] <Relaxingame2> hola patito
+[02:42:26] [Server thread/INFO]: [Not Secure] <Felxnord> duerman carajo
+[02:42:40] [Server thread/INFO]: [Not Secure] <patitoYOCHI> HOLA
+[02:42:55] [Server thread/INFO]: [Not Secure] <Relaxingame2> duerman CTM
+[02:43:11] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> yo no poder
+[02:43:22] [Server thread/INFO]: patitoYOCHI was shot by Skeleton
+[02:43:26] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> a
+[02:43:46] [Server thread/INFO]: [Not Secure] <Relaxingame2> "porque no poder" simio decir mochila tener poder vida buena
+[02:44:10] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> necesitaba lana
+[02:44:15] [Server thread/INFO]: [Not Secure] <Relaxingame2> a
+[02:44:17] [Server thread/INFO]: [Not Secure] <Relaxingame2> xd
+[02:44:20] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> consegui casi un stack
+[02:44:41] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[02:45:46] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> eh?
+[02:46:56] [Server thread/INFO]: [Not Secure] <Felxnord> quien tiene 3 stacks de piedra?
+[02:52:47] [Server thread/INFO]: patitoYOCHI has made the advancement [Stone Age]
+[02:52:52] [Server thread/INFO]: [Not Secure] <Felxnord> El Night Visión solo sirve si tienes contacto con el agua
+[02:53:13] [Server thread/INFO]: [Not Secure] <Felxnord> Igual está piola que te da Respiración infinita
+[02:53:33] [Server thread/INFO]: [Not Secure] <Felxnord> si
+[02:53:54] [Server thread/INFO]: [Not Secure] <Felxnord> fuimonos a mimir
+[02:54:15] [Server thread/INFO]: [Not Secure] <Felxnord> en el menú de la mochila abajo a la derecha, 3 puntos, desequipar
+[02:56:27] [Server thread/INFO]: [Not Secure] <Felxnord> Duerman Carajo
+[02:56:39] [Server thread/INFO]: Relaxingame2 has made the advancement [Custom Backpacks]
+[02:57:20] [Server thread/INFO]: Villager class_1646['Villager'/284036, l='ServerLevel[world]', x=-1025.70, y=66.80, z=-1321.70] died, message: 'Villager was slain by Zombie'
+[02:57:26] [Server thread/INFO]: Villager class_1646['Villager'/284038, l='ServerLevel[world]', x=-1025.70, y=66.12, z=-1321.70] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[02:57:30] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> al final si encontre madera de plamera
+[02:57:33] [Server thread/INFO]: Villager class_1646['Villager'/337845, l='ServerLevel[world]', x=-1025.85, y=66.00, z=-1321.85] died, message: 'Villager was slain by Zombie Villager'
+[02:57:40] [Server thread/INFO]: Villager class_1646['Villager'/284032, l='ServerLevel[world]', x=-1025.30, y=66.00, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[02:57:50] [Server thread/INFO]: Villager class_1646['Villager'/284041, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[02:58:36] [Server thread/INFO]: [Not Secure] <Felxnord> yo digo que si
+[03:00:10] [Server thread/INFO]: [Not Secure] <Felxnord> Tronks como va la granjita poes
+[03:01:04] [Server thread/INFO]: [Not Secure] <Felxnord> me ayudas a conseguir tierra patito?
+[03:01:12] [Server thread/INFO]: [Not Secure] <patitoYOCHI> SI
+[03:01:16] [Server thread/INFO]: [Not Secure] <patitoYOCHI> CUANTA
+[03:01:28] [Server thread/INFO]: [Not Secure] <Felxnord> dame un momento para pensar cuanto seria
+[03:01:54] [Server thread/INFO]: [Not Secure] <Felxnord> pa lo que te alcanzen esas 3 palas
+[03:02:01] [Server thread/INFO]: [Not Secure] <Felxnord> si es posible en la montaña a tu derecha
+[03:02:17] [Server thread/INFO]: [Not Secure] <patitoYOCHI> DE LA TIERRA QUE SEA
+[03:02:31] [Server thread/INFO]: [Not Secure] <Felxnord> trae ambas, la normal y la infertil
+[03:02:39] [Server thread/INFO]: [Not Secure] <patitoYOCHI> VALE
+[03:03:38] [Server thread/INFO]: [Not Secure] <Felxnord> donde tas patito para darte comida
+[03:03:49] [Server thread/INFO]: [Not Secure] <patitoYOCHI> CONSIGIENDO TIERRA
+[03:03:53] [Server thread/INFO]: [Not Secure] <Felxnord> Piola
+[03:03:53] [Server thread/INFO]: [Not Secure] <patitoYOCHI> S
+[03:04:00] [Server thread/INFO]: YoshiGamerDS27 has made the advancement [Craft basic backpack]
+[03:04:50] [Server thread/INFO]: [Not Secure] <Felxnord> El cuero de reafil es buenisimo
+[03:04:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> como se pone la mochila?
+[03:05:21] [Server thread/INFO]: [Not Secure] <Felxnord> ponla en el piso y luego le das Shift + Botón donde abres la mochila
+[03:05:56] [Server thread/WARN]: Relaxingame2 moved too quickly! 281.68070975814294,75.5,-358.19345246849355
+[03:06:24] [Server thread/INFO]: [Not Secure] <Felxnord> pero tampoco tenias que ir tan lejos pato
+[03:07:02] [Server thread/INFO]: [Not Secure] <Felxnord> opino que durmamos para que no se muera pato
+[03:07:24] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> XD
+[03:08:15] [Server thread/INFO]: [Not Secure] <Tronks94> hola
+[03:08:18] [Server thread/INFO]: [Not Secure] <Felxnord> hola
+[03:09:00] [Server thread/INFO]: [Not Secure] <Tronks94> zzz
+[03:09:11] [Server thread/INFO]: [Not Secure] <Felxnord> como va la granja maje?
+[03:09:33] [Server thread/INFO]: Villager class_1646['Villager'/283936, l='ServerLevel[world]', x=-1024.11, y=65.00, z=-1321.44] died, message: 'Villager was squished too much'
+[03:09:44] [Server thread/INFO]: [Not Secure] <Felxnord> Relaxing la niñera del server, epico
+[03:09:52] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> xD
+[03:11:37] [Server thread/INFO]: patitoYOCHI has made the advancement [What a Deal!]
+[03:11:39] [Server thread/INFO]: patitoYOCHI has made the advancement [Cover Me with Diamonds]
+[03:11:57] [Server thread/INFO]: [Not Secure] <Felxnord> estoy viendo que luego tengo que ponerle Irrompible a mi armor
+[03:12:27] [Server thread/INFO]: [Not Secure] <Felxnord> Ponte la de PolloFrito :V
+[03:12:37] [Server thread/INFO]: YoshiGamerDS27 lost connection: Timed out
+[03:12:37] [Server thread/INFO]: YoshiGamerDS27 left the game
+[03:12:43] [Server thread/INFO]: [Not Secure] <Tronks94> pedofilo frito?
+[03:12:50] [Server thread/INFO]: [Not Secure] <Relaxingame2> maufrito?
+[03:13:08] [Server thread/INFO]: [Not Secure] <Relaxingame2> mauufrito
+[03:13:57] [Server thread/INFO]: YoshiGamerDS27[/127.14.99.99:50728] logged in with entity id 376702 at (-900.5880852192455, 72.0, -1368.0830162868378)
+[03:13:57] [Server thread/INFO]: YoshiGamerDS27 joined the game
+[03:14:03] [Server thread/INFO]: Channel update: YoshiGamerDS27 -> default
+[03:15:27] [Server thread/INFO]: Felxnord lost connection: Disconnected
+[03:15:27] [Server thread/INFO]: Felxnord left the game
+[03:15:54] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> donde tas tronks
+[03:16:13] [Server thread/INFO]: Villager class_1646['Villager'/283931, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:16:18] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> te sirve unos 40 bloques?
+[03:19:14] [Server thread/INFO]: Felxnord[/127.45.126.2:50750] logged in with entity id 383182 at (-918.032114398109, 72.0, -1272.0811547440542)
+[03:19:14] [Server thread/INFO]: Felxnord joined the game
+[03:19:14] [Server thread/INFO]: Channel update: Felxnord -> default
+[03:19:22] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> tronks te dejare la lana en unos de los cofres cerca del portal porque no se donde tas XD
+[03:19:35] [Server thread/INFO]: [Not Secure] <Tronks94> fel me puedes volver a dar las 9 tolvas
+[03:19:40] [Server thread/INFO]: [Not Secure] <Tronks94> porfa
+[03:19:49] [Server thread/INFO]: [Not Secure] <Felxnord> Va deja las vuelvo a craftear
+[03:21:30] [Server thread/INFO]: Villager class_1646['Villager'/283924, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:21:35] [Server thread/INFO]: Villager class_1646['Villager'/284037, l='ServerLevel[world]', x=-1025.70, y=67.25, z=-1321.30] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[03:21:37] [Server thread/INFO]: Villager class_1646['Villager'/283929, l='ServerLevel[world]', x=-1023.38, y=64.00, z=-1321.46] died, message: 'Villager was slain by Zombie Villager'
+[03:21:41] [Server thread/INFO]: Villager class_1646['Villager'/283938, l='ServerLevel[world]', x=-1023.70, y=64.00, z=-1321.00] died, message: 'Villager was slain by Zombie Villager'
+[03:21:45] [Server thread/INFO]: Villager class_1646['Villager'/365534, l='ServerLevel[world]', x=-1023.85, y=64.42, z=-1321.24] died, message: 'Villager was slain by Zombie Villager'
+[03:21:48] [Server thread/INFO]: Villager class_1646['Villager'/283937, l='ServerLevel[world]', x=-1023.76, y=65.00, z=-1321.33] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[03:21:51] [Server thread/INFO]: Villager class_1646['Villager'/380344, l='ServerLevel[world]', x=-1023.63, y=64.00, z=-1321.26] died, message: 'Villager was slain by Zombie Villager'
+[03:21:52] [Server thread/INFO]: Villager class_1646['Villager'/284042, l='ServerLevel[world]', x=-1024.70, y=65.42, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:21:56] [Server thread/INFO]: Villager class_1646['Villager'/284043, l='ServerLevel[world]', x=-1023.70, y=64.00, z=-1319.35] died, message: 'Villager was slain by Zombie Villager'
+[03:21:57] [Server thread/INFO]: Villager class_1646['Villager'/283930, l='ServerLevel[world]', x=-1023.67, y=64.00, z=-1320.73] died, message: 'Villager was slain by Zombie Villager'
+[03:21:59] [Server thread/INFO]: Villager class_1646['Villager'/283934, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:00] [Server thread/INFO]: Villager class_1646['Villager'/283935, l='ServerLevel[world]', x=-1023.70, y=64.00, z=-1322.23] died, message: 'Villager was slain by Zombie Villager'
+[03:22:03] [Server thread/INFO]: Villager class_1646['Villager'/301828, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:05] [Server thread/INFO]: Villager class_1646['Villager'/283922, l='ServerLevel[world]', x=-1024.70, y=65.75, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:06] [Server thread/INFO]: Villager class_1646['Villager'/283927, l='ServerLevel[world]', x=-1023.70, y=64.00, z=-1321.66] died, message: 'Villager was slain by Zombie Villager'
+[03:22:08] [Server thread/INFO]: Villager class_1646['Villager'/310798, l='ServerLevel[world]', x=-1024.70, y=65.63, z=-1321.30] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[03:22:10] [Server thread/INFO]: Villager class_1646['Villager'/319263, l='ServerLevel[world]', x=-1024.70, y=65.63, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:11] [Server thread/INFO]: Villager class_1646['Villager'/284033, l='ServerLevel[world]', x=-1025.70, y=67.25, z=-1321.70] died, message: 'Villager was burned to a crisp while fighting Zombie Villager'
+[03:22:13] [Server thread/INFO]: Villager class_1646['Villager'/284044, l='ServerLevel[world]', x=-1024.70, y=65.63, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:13] [Server thread/INFO]: Villager class_1646['Villager'/283939, l='ServerLevel[world]', x=-1024.70, y=65.09, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:14] [Server thread/INFO]: Villager class_1646['Villager'/283923, l='ServerLevel[world]', x=-1024.70, y=65.00, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:15] [Server thread/INFO]: Villager class_1646['Villager'/295459, l='ServerLevel[world]', x=-1023.94, y=65.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:15] [Server thread/INFO]: Villager class_1646['Villager'/284040, l='ServerLevel[world]', x=-1022.69, y=64.00, z=-1322.50] died, message: 'Villager was slain by Zombie Villager'
+[03:22:16] [Server thread/INFO]: Villager class_1646['Villager'/283928, l='ServerLevel[world]', x=-1022.28, y=64.00, z=-1322.38] died, message: 'Villager was slain by Zombie Villager'
+[03:22:17] [Server thread/INFO]: Villager class_1646['Villager'/283932, l='ServerLevel[world]', x=-1023.70, y=64.00, z=-1321.32] died, message: 'Villager was slain by Zombie Villager'
+[03:22:18] [Server thread/INFO]: Villager class_1646['Villager'/283926, l='ServerLevel[world]', x=-1024.70, y=65.75, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:19] [Server thread/INFO]: Villager class_1646['Villager'/283933, l='ServerLevel[world]', x=-1024.70, y=65.09, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:20] [Server thread/INFO]: Villager class_1646['Villager'/284039, l='ServerLevel[world]', x=-1024.70, y=65.40, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:21] [Server thread/INFO]: Villager class_1646['Villager'/283925, l='ServerLevel[world]', x=-1024.70, y=65.86, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:22] [Server thread/INFO]: Villager class_1646['Villager'/328745, l='ServerLevel[world]', x=-1025.68, y=66.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:22:26] [Server thread/INFO]: Villager class_1646['Villager'/284035, l='ServerLevel[world]', x=-1025.70, y=66.00, z=-1321.70] died, message: 'Villager was slain by Zombie Villager'
+[03:22:28] [Server thread/INFO]: Villager class_1646['Villager'/284034, l='ServerLevel[world]', x=-1025.70, y=66.00, z=-1321.30] died, message: 'Villager was slain by Zombie Villager'
+[03:23:13] [Server thread/INFO]: Villager class_1646['Villager'/388051, l='ServerLevel[world]', x=-1023.03, y=64.00, z=-1320.05] died, message: 'Villager was slain by Zombie Villager'
+[03:23:16] [Server thread/INFO]: [Not Secure] <Felxnord> Dime patito
+[03:23:26] [Server thread/INFO]: [Not Secure] <patitoYOCHI> DONDE ESTAS
+[03:23:40] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> xd
+[03:24:05] [Server thread/INFO]: [Not Secure] <Felxnord> donde tas patito pa buscar la tierra
+[03:25:08] [Server thread/INFO]: [Not Secure] <Felxnord> yo estoy donde los aldeanos
+[03:25:22] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> ya mucho mc por hoy
+[03:25:29] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> seguire mañana
+[03:25:33] [Server thread/INFO]: [Not Secure] <Felxnord> Messirve igualmente
+[03:25:36] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> seguire en el vc
+[03:26:19] [Server thread/INFO]: [Not Secure] <YoshiGamerDS27> son las 3 am patito, muchos ya estan en el 5to sueño :v
+[03:27:20] [Server thread/INFO]: YoshiGamerDS27 lost connection: Disconnected
+[03:27:20] [Server thread/INFO]: YoshiGamerDS27 left the game
+[03:30:24] [Server thread/INFO]: [Not Secure] <Felxnord> Increible como ni con lo que me trajo pato alcanzó, maldito desnivel
+[03:30:47] [Server thread/INFO]: Relaxingame2 lost connection: Disconnected
+[03:30:47] [Server thread/INFO]: Relaxingame2 left the game
+[03:30:49] [Server thread/INFO]: [Not Secure] <Tronks94> descansa pata
+[03:31:12] [Server thread/INFO]: [Not Secure] <Tronks94> saben que tambien perdi y era importante?
+[03:31:16] [Server thread/INFO]: [Not Secure] <Tronks94> las etiquetas
+[03:31:36] [Server thread/INFO]: [Not Secure] <Felxnord> ahí luego farmeo para unas
+[03:31:40] [Server thread/WARN]: Felxnord moved too quickly! 3.8801240011893015,1.2491870787446828,-9.34903651537661
+[03:31:52] [Server thread/INFO]: [Not Secure] <Tronks94> gracias majes
+[03:34:05] [Server thread/INFO]: [Not Secure] <Felxnord> si sigo acá
+[03:34:48] [Server thread/INFO]: [Not Secure] <Felxnord> Compré 2 etiquetas
+[03:35:02] [Server thread/INFO]: [Not Secure] <Tronks94> goty
+[03:36:00] [Server thread/INFO]: [Not Secure] <Tronks94> gracias pata
+[03:36:05] [Server thread/INFO]: patitoYOCHI lost connection: Disconnected
+[03:36:05] [Server thread/INFO]: patitoYOCHI left the game
+[03:36:12] [Server thread/INFO]: [Not Secure] <Felxnord> denada maje
+[03:46:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[03:49:48] [Server thread/INFO]: [Not Secure] <Tronks94> 36+38
+[03:49:57] [Server thread/INFO]: [Not Secure] <Tronks94> 74
+[03:50:02] [Server thread/INFO]: [Not Secure] <Felxnord> Que flasheaba
+[03:58:07] [Server thread/INFO]: [Not Secure] <Tronks94> ya esta toda la estructura falta traer las camas y los aldeanos y ya
+[03:58:13] [Server thread/INFO]: [Not Secure] <Felxnord> peak
+[03:58:25] [Server thread/INFO]: [Not Secure] <Tronks94> mañana la acabo si sigue ahi espero
+[03:58:34] [Server thread/INFO]: [Not Secure] <Tronks94> adios fel
+[03:58:39] [Server thread/INFO]: [Not Secure] <Felxnord> chao tronks
+[03:58:45] [Server thread/INFO]: Tronks94 lost connection: Disconnected
+[03:58:45] [Server thread/INFO]: Tronks94 left the game
+[04:53:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[05:05:57] [Server thread/INFO]: Tree reached max size of 100
+[05:05:59] [Server thread/INFO]: Tree reached max size of 100
+[05:06:00] [Server thread/INFO]: Tree reached max size of 100
+[05:06:00] [Server thread/INFO]: Tree reached max size of 100
+[05:12:48] [Server thread/INFO]: Felxnord lost connection: Disconnected
+[05:12:48] [Server thread/INFO]: Felxnord left the game
+[05:13:10] [Server thread/INFO]: Felxnord[/127.45.126.2:49700] logged in with entity id 464349 at (-958.4698774557428, 75.0, -1134.170112196546)
+[05:13:10] [Server thread/INFO]: Felxnord joined the game
+[05:13:10] [Server thread/INFO]: Channel update: Felxnord -> default
+[05:24:35] [Server thread/INFO]: Felxnord lost connection: Disconnected
+[05:24:35] [Server thread/INFO]: Felxnord left the game
+[05:25:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:00:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[07:07:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[08:14:15] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[09:21:16] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[10:28:16] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[11:35:16] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[11:40:30] [Server thread/INFO]: ggnekito_lcwt5[/127.238.213.81:60384] logged in with entity id 471336 at (646.5139214863226, -22.0, -350.28251662082675)
+[11:40:30] [Server thread/INFO]: ggnekito_lcwt5 joined the game
+[11:40:31] [Server thread/INFO]: Channel update: ggnekito_lcwt5 -> default
+[11:57:37] [Server thread/INFO]: ggnekito_lcwt5 has made the advancement [Cover Me with Diamonds]
+[12:09:43] [Server thread/INFO]: Tree reached max size of 100
+[12:09:45] [Server thread/INFO]: Tree reached max size of 100
+[12:09:46] [Server thread/INFO]: Tree reached max size of 100
+[12:09:47] [Server thread/INFO]: Tree reached max size of 100
+[12:09:48] [Server thread/INFO]: Tree reached max size of 100
+[12:09:48] [Server thread/INFO]: Tree reached max size of 100
+[12:09:49] [Server thread/INFO]: Tree reached max size of 100
+[12:09:50] [Server thread/INFO]: Tree reached max size of 100
+[12:09:51] [Server thread/INFO]: Tree reached max size of 100
+[12:09:51] [Server thread/INFO]: Tree reached max size of 100
+[12:09:52] [Server thread/INFO]: Tree reached max size of 100
+[12:09:53] [Server thread/INFO]: Tree reached max size of 100
+[12:09:54] [Server thread/INFO]: Tree reached max size of 100
+[12:09:55] [Server thread/INFO]: Tree reached max size of 100
+[12:09:55] [Server thread/INFO]: Tree reached max size of 100
+[12:09:56] [Server thread/INFO]: Tree reached max size of 100
+[12:09:57] [Server thread/INFO]: Tree reached max size of 100
+[12:09:57] [Server thread/INFO]: Tree reached max size of 100
+[12:10:01] [Server thread/INFO]: Tree reached max size of 100
+[12:10:01] [Server thread/INFO]: Tree reached max size of 100
+[12:10:02] [Server thread/INFO]: Tree reached max size of 100
+[12:10:03] [Server thread/INFO]: Tree reached max size of 100
+[12:10:04] [Server thread/INFO]: Tree reached max size of 100
+[12:10:10] [Server thread/INFO]: Tree reached max size of 100
+[12:10:11] [Server thread/INFO]: Tree reached max size of 100
+[12:10:12] [Server thread/INFO]: Tree reached max size of 100
+[12:10:16] [Server thread/INFO]: Tree reached max size of 100
+[12:10:17] [Server thread/INFO]: Tree reached max size of 100
+[12:10:17] [Server thread/INFO]: Tree reached max size of 100
+[12:10:19] [Server thread/INFO]: Tree reached max size of 100
+[12:10:19] [Server thread/INFO]: Tree reached max size of 100
+[12:10:20] [Server thread/INFO]: Tree reached max size of 100
+[12:10:21] [Server thread/INFO]: Tree reached max size of 100
+[12:10:22] [Server thread/INFO]: Tree reached max size of 100
+[12:10:23] [Server thread/INFO]: Tree reached max size of 100
+[12:10:23] [Server thread/INFO]: Tree reached max size of 100
+[12:10:24] [Server thread/INFO]: Tree reached max size of 100
+[12:10:25] [Server thread/INFO]: Tree reached max size of 100
+[12:10:25] [Server thread/INFO]: Tree reached max size of 100
+[12:10:26] [Server thread/INFO]: Tree reached max size of 100
+[12:10:27] [Server thread/INFO]: Tree reached max size of 100
+[12:10:28] [Server thread/INFO]: Tree reached max size of 100
+[12:10:42] [Server thread/INFO]: Tree reached max size of 100
+[12:10:43] [Server thread/INFO]: Tree reached max size of 100
+[12:10:44] [Server thread/INFO]: Tree reached max size of 100
+[12:10:45] [Server thread/INFO]: Tree reached max size of 100
+[12:10:46] [Server thread/INFO]: Tree reached max size of 100
+[12:10:46] [Server thread/INFO]: Tree reached max size of 100
+[12:10:47] [Server thread/INFO]: Tree reached max size of 100
+[12:10:48] [Server thread/INFO]: Tree reached max size of 100
+[12:10:54] [Server thread/INFO]: Tree reached max size of 100
+[12:10:58] [Server thread/INFO]: Tree reached max size of 100
+[12:10:59] [Server thread/INFO]: Tree reached max size of 100
+[12:10:59] [Server thread/INFO]: Tree reached max size of 100
+[12:11:00] [Server thread/INFO]: Tree reached max size of 100
+[12:11:01] [Server thread/INFO]: Tree reached max size of 100
+[12:11:16] [Server thread/INFO]: Tree reached max size of 100
+[12:11:17] [Server thread/INFO]: Tree reached max size of 100
+[12:25:27] [Server thread/INFO]: Tree reached max size of 100
+[12:25:28] [Server thread/INFO]: Tree reached max size of 100
+[12:25:28] [Server thread/INFO]: Tree reached max size of 100
+[12:25:29] [Server thread/INFO]: Tree reached max size of 100
+[12:25:30] [Server thread/INFO]: Tree reached max size of 100
+[12:25:31] [Server thread/INFO]: Tree reached max size of 100
+[12:25:32] [Server thread/INFO]: Tree reached max size of 100
+[12:25:32] [Server thread/INFO]: Tree reached max size of 100
+[12:25:33] [Server thread/INFO]: Tree reached max size of 100
+[12:25:34] [Server thread/INFO]: Tree reached max size of 100
+[12:25:34] [Server thread/INFO]: Tree reached max size of 100
+[12:25:35] [Server thread/INFO]: Tree reached max size of 100
+[12:25:36] [Server thread/INFO]: Tree reached max size of 100
+[12:25:37] [Server thread/INFO]: Tree reached max size of 100
+[12:25:38] [Server thread/INFO]: Tree reached max size of 100
+[12:25:38] [Server thread/INFO]: Tree reached max size of 100
+[12:25:39] [Server thread/INFO]: Tree reached max size of 100
+[12:25:40] [Server thread/INFO]: Tree reached max size of 100
+[12:25:41] [Server thread/INFO]: Tree reached max size of 100
+[12:25:41] [Server thread/INFO]: Tree reached max size of 100
+[12:25:42] [Server thread/INFO]: Tree reached max size of 100
+[12:25:43] [Server thread/INFO]: Tree reached max size of 100
+[12:25:43] [Server thread/INFO]: Tree reached max size of 100
+[12:25:51] [Server thread/INFO]: Tree reached max size of 100
+[12:25:52] [Server thread/INFO]: Tree reached max size of 100
+[12:25:52] [Server thread/INFO]: Tree reached max size of 100
+[12:25:53] [Server thread/INFO]: Tree reached max size of 100
+[12:25:54] [Server thread/INFO]: Tree reached max size of 100
+[12:25:54] [Server thread/INFO]: Tree reached max size of 100
+[12:25:55] [Server thread/INFO]: Tree reached max size of 100
+[12:25:56] [Server thread/INFO]: Tree reached max size of 100
+[12:25:57] [Server thread/INFO]: Tree reached max size of 100
+[12:25:57] [Server thread/INFO]: Tree reached max size of 100
+[12:25:58] [Server thread/INFO]: Tree reached max size of 100
+[12:25:59] [Server thread/INFO]: Tree reached max size of 100
+[12:25:59] [Server thread/INFO]: Tree reached max size of 100
+[12:42:16] [SkinsRestorer-Async/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1mA new version of SkinsRestorer ([32;1m15.12.4[36;1m) is available: [32;1mhttps://modrinth.com/plugin/skinsrestorer/version/15.12.4[0;39m
+[12:44:16] [Server thread/INFO]: ggnekito_lcwt5 tried to swim in lava
+[12:45:30] [Server thread/INFO]: ggnekito_lcwt5 tried to swim in lava
+[12:45:35] [Server thread/INFO]: ggnekito_lcwt5 lost connection: Disconnected
+[12:45:35] [Server thread/INFO]: ggnekito_lcwt5 left the game
+[12:45:47] [Server thread/INFO]: Stopping the server
+[12:45:47] [Server thread/INFO]: Stopping server
+[12:45:47] [Server thread/INFO]: Saving players
+[12:45:47] [Server thread/INFO]: Saving worlds
+[12:45:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:45:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:45:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:45:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:45:48] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[12:45:48] [Server thread/INFO]: Dispatching unloading event for config visualworkbench-server.toml

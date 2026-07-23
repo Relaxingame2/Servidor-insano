@@ -1,0 +1,56 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:creeper": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_planks": 1,
+      "minecraft:spruce_log": 3,
+      "minecraft:sweet_berries": 28,
+      "minecraft:dirt": 2,
+      "minecraft:spruce_sapling": 1,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stick": 4,
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 663,
+      "minecraft:walk_one_cm": 15503,
+      "minecraft:walk_under_water_one_cm": 253,
+      "minecraft:damage_taken": 1009,
+      "minecraft:damage_dealt": 480,
+      "minecraft:play_time": 7939,
+      "minecraft:jump": 479,
+      "minecraft:time_since_death": 637,
+      "minecraft:sprint_one_cm": 32839,
+      "minecraft:fall_one_cm": 17542,
+      "minecraft:swim_one_cm": 9819,
+      "minecraft:total_world_time": 7939,
+      "minecraft:fly_one_cm": 115741,
+      "minecraft:walk_on_water_one_cm": 700,
+      "minecraft:crouch_one_cm": 105,
+      "minecraft:sneak_time": 25,
+      "minecraft:deaths": 3,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:mined": {
+      "minecraft:sweet_berry_bush": 2,
+      "minecraft:large_fern": 7,
+      "minecraft:spruce_leaves": 4
+    },
+    "minecraft:used": {
+      "minecraft:sweet_berries": 3,
+      "minecraft:spruce_planks": 6,
+      "minecraft:stone_pickaxe": 3,
+      "minecraft:dirt": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:spruce_planks": 12,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:sweet_berries": 50,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3219,
+      "minecraft:walk_one_cm": 31869,
+      "minecraft:walk_under_water_one_cm": 701,
+      "minecraft:damage_taken": 575,
+      "minecraft:play_time": 7495,
+      "minecraft:damage_dealt": 61,
+      "minecraft:jump": 175,
+      "minecraft:time_since_death": 3186,
+      "minecraft:sprint_one_cm": 64266,
+      "minecraft:fall_one_cm": 7600,
+      "minecraft:swim_one_cm": 1319,
+      "minecraft:total_world_time": 7495,
+      "minecraft:fly_one_cm": 32822,
+      "minecraft:crouch_one_cm": 154,
+      "minecraft:walk_on_water_one_cm": 3838,
+      "minecraft:sneak_time": 156,
+      "minecraft:deaths": 2,
+      "minecraft:player_kills": 1
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_leaves": 2
+    },
+    "minecraft:used": {
+      "minecraft:sweet_berries": 14
+    }
+  },
+  "DataVersion": 4671
+}
